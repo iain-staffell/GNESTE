@@ -1,4 +1,4 @@
-# GNESTE - The Global and National Energy Systems Techno-Economic Database
+# GNESTE: The Global and National Energy Systems Techno-Economic Database
 
 The goal of GNESTE is to develop a comprehensive database of cost and performance data for key electricity generation and storage technologies:	
 * Batteries
