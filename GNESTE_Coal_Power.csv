@@ -1,0 +1,159 @@
+# GNESTE Database | Coal Power | 2024.04.17 | CC-BY-4.0 | Citation: Nathan Johnson, Luke Hatton, Lara Dixon, Bosi Mosongo, Savanha De Kock, Andrew Marquard, Mark Howells, Iain Staffell. The Global and National Energy Systems Techno-Economic (GNESTE) Database: Economic and performance data for coal power in current and future electricity systems. 2024. Submitted to Data in Brief.
+ID,Continent,Country,ISO2,ISO3,Variable,Code,Unit,Category,Source,Notes,Currency,Energy/Power Ratio,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2030,2040,2050
+C0001,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal - Supercritical,"IEA, 2020",722 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2790.96729,,,
+C0002,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal CCUS - Supercritical,"IEA, 2020",633 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,5150.6137,,,
+C0003,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Lignite - Supercritical,"IEA, 2020",709 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,4308.62028,,,
+C0004,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Lignite CCUS - Supercritical,"IEA, 2020",570 MW ,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,7904.87283,,,
+C0005,Asia,Japan,JP,JPN,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"IEA, 2020",749 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2774.90747,,,
+C0006,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"IEA, 2020",954 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1320.34663,,,
+C0007,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal,"IEA, 2020",138 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,5026.72366,,,
+C0008,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal,"IEA, 2020",140 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,3954.15711,,,
+C0009,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2842.58814,,,
+C0010,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal CCUS,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,5281.38652,,,
+C0011,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Supercritical,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2961.88966,,,
+C0012,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal CCUS - Supercritical,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,5338.74302,,,
+C0013,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"IEA, 2020",641 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,4768.61941,,,
+C0014,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2020",499 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6872.45583,,,
+C0015,South America,Brazil,BR,BRA,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2020",900 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2511.06757,,,
+C0016,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"IEA, 2020",347 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,917.704,,,
+C0017,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"IEA, 2020",400 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1316.90524,,,
+C0018,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"IEA, 2020",400 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1274.46143,,,
+C0019,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,Coal - Supercritical,"IEA, 2020",722 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.9685597,,,
+C0020,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,Coal CCUS - Supercritical,"IEA, 2020",633 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,22.1854942,,,
+C0021,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,Lignite - Supercritical,"IEA, 2020",709 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,12.9166838,,,
+C0022,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,Lignite CCUS - Supercritical,"IEA, 2020",570 MW ,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,29.3206428,,,
+C0023,Asia,Japan,JP,JPN,Total O&M,OPEX_T,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",749 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,22.1510803,,,
+C0024,Asia,"Korea, Republic of",KR,KOR,Total O&M,OPEX_T,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",954 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,13.3296506,,,
+C0025,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Coal,"IEA, 2020",138 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,34.9530511,,,
+C0026,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Coal,"IEA, 2020",140 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,25.5236425,,,
+C0027,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Coal,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,19.5126813,,,
+C0028,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Coal CCUS,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,34.9301085,,,
+C0029,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Coal - Supercritical,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,19.730636,,,
+C0030,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Coal CCUS - Supercritical,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,34.5859695,,,
+C0031,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",641 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,33.840335,,,
+C0032,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Unspecified,"IEA, 2020",499 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,49.2807048,,,
+C0033,South America,Brazil,BR,BRA,Total O&M,OPEX_T,USD/MWh,Unspecified,"IEA, 2020",900 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.865318,,,
+C0034,Asia,China,CN,CHN,Total O&M,OPEX_T,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",347 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,17.1725361,,,
+C0035,Asia,India,IN,IND,Total O&M,OPEX_T,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",400 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.7850189,,,
+C0036,Asia,India,IN,IND,Total O&M,OPEX_T,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",400 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,44.3365745,,,
+C0037,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Supercritical,"IEA, 2020",722 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,34.0124045,,,
+C0038,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,Coal CCUS - Supercritical,"IEA, 2020",633 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,45.4034054,,,
+C0039,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,Lignite - Supercritical,"IEA, 2020",709 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,5.8847769,,,
+C0040,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,Lignite CCUS - Supercritical,"IEA, 2020",570 MW ,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.0508557,,,
+C0041,Asia,Japan,JP,JPN,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",749 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,32.9570449,,,
+C0042,Asia,"Korea, Republic of",KR,KOR,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",954 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,31.5116611,,,
+C0043,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"IEA, 2020",138 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,23.1605547,,,
+C0044,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"IEA, 2020",140 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,23.3555668,,,
+C0045,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,20.9121799,,,
+C0046,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Coal CCUS,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,26.957555,,,
+C0047,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Supercritical,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,20.0862463,,,
+C0048,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Coal CCUS - Supercritical,"IEA, 2020",650 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,25.6727694,,,
+C0049,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",641 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,19.6847508,,,
+C0050,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Unspecified,"IEA, 2020",499 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,26.7510716,,,
+C0051,South America,Brazil,BR,BRA,Fuel Price,FUEL_PRICE,USD/MWh,Unspecified,"IEA, 2020",900 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,36.4328488,,,
+C0052,Asia,China,CN,CHN,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",347 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,32.1425826,,,
+C0053,Asia,India,IN,IND,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",400 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,30.3186459,,,
+C0054,Asia,India,IN,IND,Fuel Price,FUEL_PRICE,USD/MWh,Coal - Ultrasupercritical,"IEA, 2020",400 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,30.3186459,,,
+C0055,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Unspecified,"Lazard, 2023",low case 600MW,In 2023 USD,,,,,,,,,,,3200,,,,,
+C0056,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Unspecified,"Lazard, 2023",high case 600MW,In 2023 USD,,,,,,,,,,,6775,,,,,
+C0057,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Unspecified,"Lazard, 2023",low case 600MW new build,In 2023 USD,,,,,,,,,,,39.5,,,,,
+C0058,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Unspecified,"Lazard, 2023",high case 600MW new build ,In 2023 USD,,,,,,,,,,,91.25,,,,,
+C0059,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Unspecified,"Lazard, 2023",low case 600MW new build,In 2023 USD,,,,,,,,,,,3,,,,,
+C0060,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Unspecified,"Lazard, 2023",high case 600MW new build ,In 2023 USD,,,,,,,,,,,5.5,,,,,
+C0061,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Unspecified,"Lazard, 2023",low case 600MW operating ,In 2023 USD,,,,,,,,,,,18.5,,,,,
+C0062,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Unspecified,"Lazard, 2023",high case 600MW operatating ,In 2023 USD,,,,,,,,,,,31,,,,,
+C0063,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Unspecified,"Lazard, 2023",low case 600MW operating ,In 2023 USD,,,,,,,,,,,2.75,,,,,
+C0064,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Unspecified,"Lazard, 2023",high case 600MW operating,In 2023 USD,,,,,,,,,,,5.5,,,,,
+C0065,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Unspecified,"Lazard, 2023",low case 600MW new build and operating ,In 2023 USD,,,,,,,,,,,5,,,,,
+C0066,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Unspecified,"Lazard, 2023",high case 600MW new build and perating ,In 2023 USD,,,,,,,,,,,5.5,,,,,
+C0067,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Unspecified,"Lazard, 2023",600MW new build and operating ,In 2023 USD,,,,,,,,,,,40,,,,,
+C0068,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Unspecified,"Lazard, 2023","600MW new build, USD1.47 / MMBTU",In 2023 USD,,,,,,,,,,,5.01,,,,,
+C0069,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Unspecified,"Lazard, 2023","low case 600MW operating,  USD1.89 / MMBTU",In 2023 USD,,,,,,,,,,,6.44,,,,,
+C0070,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,Unspecified,"Lazard, 2023","high case 600MW operating, USD 4.33 / MMBTU",In 2023 USD,,,,,,,,,,,14.77,,,,,
+C0071,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"EIA, 2022",650 MW,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,4425.50472,,,,,,,
+C0072,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"EIA, 2022",650 MW with 30% CCUS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,5480.2826,,,,,,,
+C0073,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal CCUS - Ultrasupercritical,"EIA, 2022",650 MW with 90% CCS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,7055.3886,,,,,,,
+C0074,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Coal - Ultrasupercritical,"EIA, 2022",650 MW,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,5.105516,,,,,,,
+C0075,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Coal - Ultrasupercritical,"EIA, 2022",650 MW with 30% CCUS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,8.0493348,,,,,,,
+C0076,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Coal CCUS - Ultrasupercritical,"EIA, 2022",650 MW with 90% CCS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,12.4813572,,,,,,,
+C0077,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Coal - Ultrasupercritical,"EIA, 2022",650 MW,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,46.1560372,,,,,,,
+C0078,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Coal - Ultrasupercritical,"EIA, 2022",650 MW with 30% CCUS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,61.7441552,,,,,,,
+C0079,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Coal CCUS - Ultrasupercritical,"EIA, 2022",650 MW with 90% CCS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,67.7186952,,,,,,,
+C0080,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2183.097,,,,2183.097,,2183.097
+C0081,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2183.097,,,,2183.097,,2183.097
+C0082,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2183.097,,,,2183.097,,2183.097
+C0083,Europe ,European Union,,,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2079.14,,,,2079.14,,2079.14
+C0084,Europe ,European Union,,,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2079.14,,,,2079.14,,2079.14
+C0085,Europe ,European Union,,,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2079.14,,,,2079.14,,2079.14
+C0086,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,831.656,,,,831.656,,831.656
+C0087,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,831.656,,,,831.656,,831.656
+C0088,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,831.656,,,,831.656,,831.656
+C0089,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1247.484,,,,1247.484,,1247.484
+C0090,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1247.484,,,,1247.484,,1247.484
+C0091,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Unspecified,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1247.484,,,,1247.484,,1247.484
+C0092,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"EIA, 2022",650 MW,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,4425.50472,,,,,,,
+C0093,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"EIA, 2023",650 MW,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,4685.34199,,,,,,
+C0094,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"EIA, 2022",650 MW with 30% CCUS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,5480.2826,,,,,,,
+C0095,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal - Ultrasupercritical,"EIA, 2023",650 MW with 30% CCUS,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,5797.68189,,,,,,
+C0096,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal CCUS - Ultrasupercritical,"EIA, 2022",650 MW with 90% CCS,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,7055.3886,,,,,,,
+C0097,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Coal CCUS - Ultrasupercritical,"EIA, 2023",650 MW with 90% CCS,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,7459.95432,,,,,,
+C0098,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal,"CSIRO, 2023",Current Policies scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,3548.1054,3262.8372,3214.197,3171.4725,2995.9734,2947.3332,2866.4853
+C0099,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal CCUS,"CSIRO, 2023",Current Policies scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,7256.592,6910.1949,6822.774,6747.1845,6308.1081,5847.3408,5630.4318
+C0100,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Lignite,"CSIRO, 2023",Current Policies scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,5376.714,5090.7885,5001.3957,4921.2051,4624.1055,4549.1733,4424.2863
+C0101,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal CCUS,"CSIRO, 2023",Global NZE by 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,7256.592,6910.1949,6822.774,6747.1845,6335.7147,5732.9706,5312.9559
+C0102,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal CCUS,"CSIRO, 2023",Global NZE post 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,7256.592,6910.1949,6822.774,6747.1845,6335.7147,5744.1447,5330.0457
+C0103,Europe,United Kingdom,GB,GBR,Efficiency,EFFICIENCY,%,Coal,"Staffell, 2017",,,,,,0.379,,,,,,,,,,,,
+C0104,Global,Global,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"Auger, 2021",Global coal price in Business as usual scenario,From 2016 USD to 2023 USD = 1.18063,,,82.36090855,,,,,92.3844767,,,,,,79.78713016,81.59349756,
+C0105,Global,Global,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"Auger, 2021",Global coal price in Falling demand scenario,From 2016 USD to 2023 USD = 1.18063,,,82.36090855,,,,,71.94773175,,,,,,63.03395796,52.60897484,
+C0106,Global,Global,,,Lifetime,LIFETIME,Years,Unspecified,"ASSET, 2018",,,,,,,,,,40,,,,,40,40,40,
+C0107,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Coal - Subcritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,1939.14494,,,,,,1939.14494,1939.14494,1939.14494
+C0108,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Coal - Supercritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,2060.341499,,,,,,2060.341499,2060.341499,2060.341499
+C0109,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Lignite - Supercritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,2423.931175,,,,,,2423.931175,2423.931175,2423.931175
+C0110,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Lignite CCUS - Supercritical,"ASSET, 2018",Pulverised post combustion,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,4363.076114,,,,,,4144.922309,3938.888159,3878.304
+C0111,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Coal CCUS - Supercritical,"ASSET, 2018",Pulverised oxyfuel,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,4120.682997,,,,,,3817.6916,3502.580547,3454.1145
+C0112,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Coal - Subcritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,31.02631904,,,,,,31.02631904,31.02631904,31.02631904
+C0113,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Coal - Supercritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,50.29657188,,,,,,43.26717147,38.41930912,37.449873
+C0114,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Lignite - Supercritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,56.71998949,,,,,,51.3873409,47.75144414,47.024436
+C0115,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Lignite CCUS - Supercritical,"ASSET, 2018",Pulverised post combustion,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,83.14083929,,,,,,78.77776318,74.65708018,73.445382
+C0116,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Coal CCUS - Supercritical,"ASSET, 2018",Pulverised oxyfuel,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,91.50340185,,,,,,78.4141735,67.2640901,65.325183
+C0117,Europe,European Union,,,Variable O&M,OPEX_V,USD/MWh,Coal - Subcritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,2.90871741,,,,,,2.90871741,2.90871741,2.90871741
+C0118,Europe,European Union,,,Variable O&M,OPEX_V,USD/MWh,Coal - Supercritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,4.399435082,,,,,,4.253999212,4.096443685,4.05685
+C0119,Europe,European Union,,,Variable O&M,OPEX_V,USD/MWh,Lignite - Supercritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,5.041776843,,,,,,4.859982005,3.454101924,3.2697
+C0120,Europe,European Union,,,Variable O&M,OPEX_V,USD/MWh,Lignite CCUS - Supercritical,"ASSET, 2018",Pulverised post combustion,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,7.562665265,,,,,,7.296032836,5.187212714,4.89244
+C0121,Europe,European Union,,,Variable O&M,OPEX_V,USD/MWh,Coal CCUS - Supercritical,"ASSET, 2018",Pulverised oxyfuel,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,7.344511459,,,,,,7.102118342,6.835485913,6.76949
+C0122,Europe,European Union,,,Efficiency,EFFICIENCY,%,Coal - Subcritical,"ASSET, 2018",,,,,,,,,,0.38,,,,,,0.42,0.43,0.43
+C0123,Europe,European Union,,,Efficiency,EFFICIENCY,%,Coal - Supercritical,"ASSET, 2018",,,,,,,,,,0.45,,,,,,0.46,0.47,0.47
+C0124,Europe,European Union,,,Efficiency,EFFICIENCY,%,Lignite - Supercritical,"ASSET, 2018",,,,,,,,,,0.41,,,,,,0.42,0.43,0.44
+C0125,Europe,European Union,,,Efficiency,EFFICIENCY,%,Lignite CCUS - Supercritical,"ASSET, 2018",Pulverised post combustion,,,,,,,,,0.32,,,,,,0.33,0.34,0.35
+C0126,Europe,European Union,,,Efficiency,EFFICIENCY,%,Coal CCUS - Supercritical,"ASSET, 2018",Pulverised oxyfuel,,,,,,,,,0.36,,,,,,0.37,0.38,0.39
+C0127,Asia,India,IN,IND,Efficiency,EFFICIENCY,%,Coal - Subcritical,"Trinomics, 2020",,,,,,,,,,0.36,,,,,,,,
+C0128,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Coal - Supercritical,"Trinomics, 2020",,,,,,,,,,0.43,,,,,,,,
+C0129,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Coal - IGCC,"Trinomics, 2020",,,,,,,,,,0.44,,,,,,,,
+C0130,Europe,Bulgaria,BG,BGR,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,5.853760906,5.853760906,
+C0131,Europe,North Macedonia,MK,MKD,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,5.853760906,5.853760906,
+C0132,Europe,Czechia,CZ,CZE,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,5.853760906,5.853760906,
+C0133,Europe,Slovakia,SK,SVK,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,7.526264022,7.526264022,
+C0134,Europe,Germany,DE,DEU,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,7.526264022,7.526264022,
+C0135,Europe,Serbia,RS,SRB,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,7.526264022,7.526264022,
+C0136,Europe,Poland,PL,POL,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,7.526264022,7.526264022,
+C0137,Europe,Montenegro,ME,MNE,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,7.526264022,7.526264022,
+C0138,Europe,Ireland,IE,IRL,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,7.526264022,7.526264022,
+C0139,Europe,Bosnia and Herzegovina,BA,BIH,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,7.526264022,7.526264022,
+C0140,Europe,Slovenia,SI,SVN,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,9.907258041,9.907258041,
+C0141,Europe,Romania,RO,ROU,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,9.907258041,9.907258041,
+C0142,Europe,Hungary,HU,HUN,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,9.907258041,9.907258041,
+C0143,Europe,Greece,GR,GRC,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,12.96189915,12.96189915,
+C0144,Europe,Turkey,TR,TUR,Fuel Price,FUEL_PRICE,USD/MWh,Lignite,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,12.96189915,12.96189915,
+C0145,Europe,European Union,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"TYNDP, 2022",NT scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,10.36022763,10.08147712,
+C0146,Europe,European Union,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"TYNDP, 2022",DE and GA scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,8.234754925,8.025692036,7.837758
+C0147,Europe,European Union,,,Total O&M,OPEX_T,USD/MWh,Coal,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,29.73338873,29.73338873,
+C0148,Europe,European Union,,,Total O&M,OPEX_T,USD/MWh,Coal,"TYNDP, 2022",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,,37.74746616,37.74746616,
+C0149,North America,North America,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,2087.817266,2087.817266,2087.817266,,2087.817266,2087.817266,2087.817266
+C0150,South America,South America,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,1767.275808,1767.275808,1767.275808,,1767.275808,1767.275808,1767.275808
+C0151,Europe,Europe,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,2294.518433,2294.518433,2294.518433,,2294.518433,2294.518433,2294.518433
+C0152,Middle East,MENA,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,2285.991281,2285.991281,2285.991281,,2285.991281,2285.991281,2285.991281
+C0153,Europe,Russian Federation & FSU,RU,RUS,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,1856.989879,1856.989879,1856.989879,,1856.989879,1856.989879,1856.989879
+C0154,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,660.9960963,660.9961092,660.9961756,,660.9962344,660.9962428,660.9959101
+C0155,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,893.5755853,893.5755853,893.5755853,,893.5755853,893.5755853,893.5755853
+C0156,Asia,South East Asia,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,1468.450846,1468.450846,1468.450846,,1468.450846,1468.450846,1468.450846
+C0157,Asia,OECD Asia & Oceania,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,1690.303956,1690.303956,1690.303956,,1690.303956,1690.303956,1690.303956

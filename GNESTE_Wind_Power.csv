@@ -1,0 +1,500 @@
+# GNESTE Database | Wind Power | 2024.04.17 | CC-BY-4.0 | Citation: Luke Hatton, Nathan Johnson, Lara Dixon, Bosi Mosongo, Savanha De Kock, Andrew Marquard, Mark Howells, Iain Staffell. The Global and National Energy Systems Techno-Economic (GNESTE) Database: Economic and performance data for wind power in current and future electricity systems. 2024. Submitted to Data in Brief.
+ID,Continent,Country,ISO2,ISO3,Variable,Code,Unit,Category,Source,Notes,Currency,Energy/Power Ratio,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2030,2040,2050
+W0001,Europe,Austria,AT,AUT,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",3 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1672.51554,,,
+W0002,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1642.69016,,,
+W0003,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",4.5 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1759.69742,,,
+W0004,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",5 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1692.01675,,,
+W0005,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",30 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1624.33608,,,
+W0006,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",30 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1521.09438,,,
+W0007,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",200 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1561.24393,,,
+W0008,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",4.48 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1053.06534,,,
+W0009,Europe,Finland,FI,FIN,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",30 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1759.69742,,,
+W0010,Europe,France,FR,FRA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",50 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1692.01675,,,
+W0011,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",1 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,3466.62686,,,
+W0012,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",10 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1639.24877,,,
+W0013,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",20 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1719.54787,,,
+W0014,Asia,Japan,JP,JPN,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",20 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2617.75066,,,
+W0015,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",14.85 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2273.61166,,,
+W0016,Europe,Netherlands,NL,NLD,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",50 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1433.9125,,,
+W0017,Europe,Norway,NO,NOR,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",130 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1069.12516,,,
+W0018,Europe,Russian Federation,RU,RUS,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",60 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1833.11374,,,
+W0019,Europe,Russian Federation,RU,RUS,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",280 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1688.57536,,,
+W0020,Europe,Sweden,SE,SWE,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",5 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1259.54874,,,
+W0021,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1640.3959,,,
+W0022,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1534.85994,,,
+W0023,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1517.65299,,,
+W0024,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1513.06447,,,
+W0025,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1539.44846,,,
+W0026,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1747.07899,,,
+W0027,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1852.61495,,,
+W0028,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2257.55184,,,
+W0029,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2500.7434,,,
+W0030,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2671.66577,,,
+W0031,South America,Brazil,BR,BRA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",30 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1507.32882,,,
+W0032,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",50 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1346.73062,,,
+W0033,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2020",65 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1006.03301,,,
+W0034,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"Lazard, 2023",Low Case,In 2023 USD,,,,,,,,,,,1025,,,,,
+W0035,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"Lazard, 2023",High Case,In 2023 USD,,,,,,,,,,,1700,,,,,
+W0036,Asia,Japan,JP,JPN,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,3404.59175,2709.11942,3201.8756,2881.68804,3044.90053,2638.42866,3674.87995,3483.59907,3660.32597,,,,,,
+W0037,Europe,Ireland,IE,IRL,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2559.42134,2261.06475,2136.31635,2357.74476,2365.02175,2747.58351,2580.21274,2108.24796,,,,,,,
+W0038,Africa,South Africa,ZA,ZAF,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2750.70222,2525.11553,2168.54302,2331.75551,2188.29485,1993.89526,2095.77312,2008.44924,,,,,,,
+W0039,Europe,Netherlands,NL,NLD,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2413.88154,3063.61279,2161.26603,3058.41494,2774.61233,2473.13703,2375.41745,2398.28799,1840.0389,,,,,,
+W0040,Europe,Greece,GR,GRC,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2379.57573,2363.98218,2012.60752,2232.99636,2459.62262,2146.71205,2157.10775,1508.41607,1923.2045,,,,,,
+W0041,Europe,France,FR,FRA,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2092.65441,2087.45656,2065.62559,2352.54691,2272.50002,2058.3486,1785.98126,1978.30171,1993.89526,,,,,,
+W0042,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,2216.36324,2216.36324,2042.75505,2219.48195,2216.36324,2216.36324,,,,,,,,
+W0043,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2220.52152,2123.84151,2170.62216,1965.82687,1916.96708,1811.97051,1600.9378,1537.52403,1267.23583,,,,,,
+W0044,Europe,Poland,PL,POL,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2434.67294,2263.14389,2250.66905,1676.82641,1703.85523,1880.58213,1713.21136,,,,,,,,
+W0045,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2345.26992,2301.60798,2257.94604,2256.90647,2220.52152,2055.22989,2045.87376,1904.49224,1969.98515,,,,,,
+W0046,Europe,Sweden,SE,SWE,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2502.24499,2237.15464,2058.3486,1864.98858,1488.66424,1562.47371,1565.59242,1468.91241,1285.94809,,,,,,
+W0047,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2849.46137,2943.02267,2756.93964,2420.11896,2165.42431,2834.90739,1624.84791,1521.93048,1781.82298,,,,,,
+W0048,North America,Mexico,MX,MEX,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2954.45794,2529.27381,2369.18003,2273.53959,1762.07115,2062.50688,1767.269,1637.32275,1581.18597,,,,,,
+W0049,South America,Argentina,AR,ARG,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2580.21274,2484.5723,,2560.46091,2000.13268,1742.31932,1956.47074,1983.49956,1520.89091,,,,,,
+W0050,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2959.65579,2761.09792,2576.05446,2001.17225,1862.90944,1813.01008,2000.13268,1382.6281,1414.85477,,,,,,
+W0051,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2641.54737,2602.04371,2439.87079,2464.82047,2152.94947,2212.20496,2005.33053,2158.14732,1540.64274,,,,,,
+W0052,South America,Chile,CL,CHL,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2569.81704,2650.9035,2319.28067,2090.57527,2036.51763,2876.49019,1767.269,1750.63588,1335.84745,,,,,,
+W0053,Europe,Spain,ES,ESP,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2044.83419,1933.6002,1904.49224,2090.57527,2727.83168,1809.89137,1420.05262,1303.62078,1204.86163,,,,,,
+W0054,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2313.04325,2475.21617,2085.37742,2984.60547,2050.03204,1948.15418,1994.93483,1532.32618,1506.33693,,,,,,
+W0055,South America,Brazil,BR,BRA,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2591.64801,2248.58991,2356.70519,2023.00322,2053.15075,1817.16836,1669.54942,1278.6711,1093.62764,,,,,,
+W0056,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,1586.38382,1540.64274,1535.44489,1454.35843,1507.3765,1425.25047,1456.43757,1288.02723,1146.64571,,,,,,
+W0057,Asia,Turkey,TR,TUR,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2199.73012,2265.22303,2283.93529,2061.46731,2186.21571,1962.70816,1553.11758,1425.25047,1721.52792,,,,,,
+W0058,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,1654.99544,1485.54553,1367.03455,1351.441,1352.48057,1229.81131,1196.54507,1030.21387,1166.39754,,,,,,
+W0059,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,2806.839,2724.71297,2667.53662,2632.19124,2575.01489,2676.89275,2632.19124,,,,,,,
+W0060,North America,Costa Rica,CR,CRI,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,3008.51558,3093.76032,3051.13795,2461.70176,,,,,,,,,,,
+W0061,Europe,Croatia,HR,HRV,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2898.32116,2063.54645,2289.13314,2289.13314,1928.40235,1787.02083,,,,,,,,,
+W0062,Europe,Cyprus,CY,CYP,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,2250.66905,,,,,,,,,,,,
+W0063,North America,Dominican Republic,DO,DOM,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2587.48973,,2934.70611,2379.57573,2438.83122,2025.08236,2376.45702,,,,,,,,
+W0064,Africa,Egypt,EG,EGY,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,2253.78776,,,2038.59677,,1688.26168,,1526.08876,,,,,,
+W0065,Africa,Ethiopia,ET,ETH,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,2776.69147,3049.05881,,,2216.36324,,,2226.75894,,,,,,
+W0066,Europe,Finland,FI,FIN,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2363.98218,2741.34609,2496.00757,2448.18735,2280.81658,1667.47028,1431.48789,1884.74041,1834.84105,,,,,,
+W0067,Asia,Indonesia,ID,IDN,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,3033.46526,2332.79508,2603.08328,2477.29531,,,,,,,,
+W0068,Africa,Morocco,MA,MAR,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2458.58305,,1716.33007,1708.01351,2433.63337,,1548.9593,1041.64914,1957.51031,,,,,,
+W0069,Oceania,New Zealand,NZ,NZL,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2468.97875,2897.28159,,,,,1554.15715,1489.70381,,,,,,,
+W0070,Europe,Norway,NO,NOR,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,2004.29096,2152.94947,2225.71937,2254.82733,2072.90258,1460.59585,1714.25093,,,,,,,
+W0071,Asia,Pakistan,PK,PAK,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2592.68758,3101.03731,3196.67775,3096.87903,2479.37445,,,2080.17957,1294.26465,,,,,,
+W0072,North America,Panama,PA,PAN,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2018.84494,2437.79165,2438.83122,,,,,,,,,,,,
+W0073,South America,Peru,PE,PER,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,3311.03045,2930.54783,2330.71594,,1457.47714,,,,,,,,,,
+W0074,Asia,Philippines,PH,PHL,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,3320.38658,3293.35776,3274.6455,3475.28251,,2177.89915,,,,,,,,,
+W0075,Europe,Portugal,PT,PRT,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2290.17271,2327.59723,2088.49613,2163.34517,2048.99247,,,,,,,,,,
+W0076,Europe,Russian Federation,RU,RUS,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,2756.93964,,,2336.95336,1795.33739,1849.39503,1633.16447,1701.77609,,,,,,
+W0077,South America,Uruguay,UY,URY,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,3086.48333,2431.55423,,2708.07985,,,,,,,,,,,
+W0078,Asia,Viet Nam,VN,VNM,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,2440.91036,2465.86004,2584.37102,,2665.45748,2683.13017,1711.13222,1790.13954,,,,,,
+W0079,Europe,Ukraine,UA,UKR,Capital Cost,CAPEX,USD/kW,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,2401.4067,,,2322.39938,,2433.63337,1699.69695,1373.27197,,,,,,,
+W0080,Europe,Sweden,SE,SWE,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,72.042201,50.627059,52.810156,53.433898,54.681382,50.834973,40.647187,37.840348,,,,,,,
+W0081,Europe,Ireland,IE,IRL,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,103.437215,50.003317,44.181725,41.5828,38.983875,36.38495,33.682068,31.083143,,,,,,,
+W0082,Europe,Germany,DE,DEU,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,82.957686,77.344008,71.73033,76.408395,81.08646,59.359447,47.404392,44.181725,,,,,,,
+W0083,Europe,Denmark,DK,DNK,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,50.003317,59.879232,46.884607,40.127402,41.790714,54.681382,32.22667,31.083143,,,,,,,
+W0084,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,68.091835,55.513038,54.161597,53.433898,54.681382,50.834973,40.647187,37.840348,27.444648,,,,,,
+W0085,Europe,Norway,NO,NOR,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,64.141469,53.433898,51.770586,50.107274,52.498285,50.107274,40.023445,37.320563,,,,,,,
+W0086,Asia,Japan,JP,JPN,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,99.79872,98.239365,96.68001,95.120655,123.293002,112.377517,89.714891,83.685385,,,,,,,
+W0087,South America,Brazil,BR,BRA,Total O&M,OPEX_T,USD/kW/yr,Onshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,41.894671,39.399703,36.904735,34.409767,31.914799,29.419831,26.924863,27.860476,24.429895,,,,,,
+W0088,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2020",,From 2019 USD to 2023 USD = 1.12020,,,,,,,1608.6072,,,,,,,,,
+W0089,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Onshore,"NREL, 2020",,From 2019 USD to 2023 USD = 1.12020,,,,,,,48.1686,,,,,,,,,
+W0090,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2022",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,1608.8579,,,,,,,,
+W0091,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Onshore,"NREL, 2022",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,47.31935,,,,,,,,
+W0092,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023b",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1630.50628,,,,,,,
+W0093,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Onshore,"NREL, 2023b",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,43.4512,,,,,,,
+W0094,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 1",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1480.59964,1672.8712,1571.84716,1403.47376,1377.40304,1249.222,1126.47236,1003.72272
+W0095,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 2",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1480.59964,1672.8712,1571.84716,1403.47376,1377.40304,1249.222,1126.47236,1003.72272
+W0096,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 3",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1480.59964,1672.8712,1571.84716,1403.47376,1377.40304,1249.222,1126.47236,1003.72272
+W0097,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 4",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1480.59964,1672.8712,1571.84716,1403.47376,1377.40304,1249.222,1126.47236,1003.72272
+W0098,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 5",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1480.59964,1672.8712,1571.84716,1403.47376,1377.40304,1249.222,1126.47236,1003.72272
+W0099,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 6",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1480.59964,1672.8712,1571.84716,1403.47376,1377.40304,1249.222,1126.47236,1003.72272
+W0100,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 7",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1480.59964,1672.8712,1571.84716,1403.47376,1377.40304,1249.222,1126.47236,1003.72272
+W0101,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 8",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1617.47092,1820.60528,1703.28704,1514.27432,1479.51336,1307.88112,1179.70008,1051.51904
+W0102,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 9",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1538.17248,1747.82452,1651.1456,1482.7722,1464.30544,1371.97164,1241.61804,1112.35072
+W0103,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 10",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,2130.19508,2390.90228,2230.13284,1975.94332,1924.88816,1668.52608,1508.84292,1348.07348
+W0104,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 1",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0105,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 2",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0106,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 3",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0107,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 4",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0108,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 5",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0109,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 6",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0110,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 7",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0111,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 8",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,31.50212,30.41584,30.41584,29.32956,29.32956,27.157,24.98444,22.81188
+W0112,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 9",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,41.27864,41.27864,41.27864,40.19236,40.19236,38.0198,34.76096,32.5884
+W0113,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a","Moderate estimate, land-based wind class 10",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0114,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"JRC, 2017","high specific capacity, low hub height p15.Diversified scenario
+",From 2015 EUR to 2023 USD = 1.25458,,,1367.013864,,,,,1304.306806,,,,,,1153.809867,830.0629524,597.1560175
+W0115,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"JRC, 2017","high specific capacity, low hub height p15.Diversified scenario
+",From 2015 EUR to 2023 USD = 1.25458,,,41.01041592,,,,,39.12920418,,,,,,34.614296,24.90188857,17.91468052
+W0116,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"JRC, 2017","medium specific capacity, medium hub height p14. Diversified scenario",From 2015 EUR to 2023 USD = 1.25458,,,1693.090565,,,,,1617.842096,,,,,,1417.17951,1019.533844,733.4633693
+W0117,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"JRC, 2017","medium specific capacity, medium hub height p14. Diversified scenario",From 2015 EUR to 2023 USD = 1.25458,,,50.79271696,,,,,48.53526288,,,,,,42.51538531,30.58601531,22.00390108
+W0118,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"JRC, 2017","Offshore, monopole, medium distance to shore. Diversified Scenario",From 2015 EUR to 2023 USD = 1.25458,,,4389.494059,,,,,3599.385128,,,,,,2922.148902,2102.224651,1512.362522
+W0119,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"JRC, 2017","Offshore, jacket, medium distance to shore. Diversified Scenario",From 2015 EUR to 2023 USD = 1.25458,,,4514.908175,,,,,3699.716421,,,,,,2997.397371,2156.359192,1551.30748
+W0120,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"JRC, 2017","low specific capacity, high hub height p13. Diversified Scenario",From 2015 EUR to 2023 USD = 1.25458,,,2320.161145,,,,,2207.288441,,,,,,1956.460209,1407.49805,1012.568899
+W0121,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"JRC, 2017","Offshore, monopole, medium distance to shore. Diversified Scenario",From 2015 EUR to 2023 USD = 1.25458,,,87.78988117,,,,,71.98770256,,,,,,58.44297804,42.04449302,30.24725045
+W0122,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"JRC, 2017","Offshore, jacket, medium distance to shore. Diversified Scenario",From 2015 EUR to 2023 USD = 1.25458,,,90.29816349,,,,,73.99432842,,,,,,59.94794743,43.12718383,31.0261496
+W0123,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"JRC, 2017","low specific capacity, high hub height p13. Diversified Scenario",From 2015 EUR to 2023 USD = 1.25458,,,69.60483436,,,,,66.21865323,,,,,,58.69380627,42.22494149,30.37706697
+W0124,Europe,European Union,,,Lifetime,LIFETIME,Years,Onshore,"JRC, 2017",,,,,,,25,,,,,,,,,,,
+W0125,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"EIA, 2020",200 MW,,,,,,,,25,,,,,,,,,
+W0126,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2020",200 MW,,,,,,,,0.75,,,,,,,,,
+W0127,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"EIA, 2020",50mw plant,,,,,,,,25,,,,,,,,,
+W0128,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2020",50mw plant,,,,,,,,0.5,,,,,,,,,
+W0129,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"EIA, 2020",50mw plant,From 2019 USD to 2023 USD = 1.12020,,,,,,,39.363828,,,,,,,,,
+W0130,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2020",50 MW plant,From 2019 USD to 2023 USD = 1.12020,,,,,,,1878.5754,,,,,,,,,
+W0131,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"EIA, 2020",200 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,29.506068,,,,,,,,,
+W0132,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2020",200 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,1417.053,,,,,,,,,
+W0133,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"Lazard, 2023",,,,,,,,,,,,,20,,,,,
+W0134,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"Lazard, 2023",,,,,,,,,,,,,12,,,,,
+W0135,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"Lazard, 2023",Mean,In 2023 USD,,,,,,,,,,,1362.5,,,,,
+W0136,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"Lazard, 2023",mean,In 2023 USD,,,,,,,,,,,27.5,,,,,
+W0137,Asia,India,IN,IND,Construction Time,BUILDTIME,Years,Onshore,"Danish Energy Agency, 2022",,,,,,,,,,1.5,,,,,,1,1,1
+W0138,Asia,India,IN,IND,Lifetime,LIFETIME,Years,Onshore,"Danish Energy Agency, 2022",,,,,,,,,,25,,,,,,30,30,30
+W0139,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Offshore,"Danish Energy Agency, 2022",,From 2020 IRP to 2023 USD = 0.0148565,,,,,,,,3431.8515,,,,,,1782.78,494.0472126,136.9112556
+W0140,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Onshore,"Danish Energy Agency, 2022",,From 2020 IRP to 2023 USD = 0.0148565,,,,,,,,989.4429,,,,,,878.01915,243.3182522,67.4287934
+W0141,Asia,India,IN,IND,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"Danish Energy Agency, 2022",,From 2020 IRP to 2023 USD = 0.0148565,,,,,,,,100.13281,,,,,,44.27237,12.26883911,3.399962848
+W0142,Asia,India,IN,IND,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"Danish Energy Agency, 2022",,From 2020 IRP to 2023 USD = 0.0148565,,,,,,,,10.10242,,,,,,9.062465,2.511406664,0.695965549
+W0143,Asia,India,IN,IND,Variable O&M,OPEX_V,USD/MWh,Onshore,"Danish Energy Agency, 2022",,From 2020 IRP to 2023 USD = 0.0148565,,,,,,,,3.56556,,,,,,3.1644345,0.876933802,0.243017479
+W0144,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1268.2754,,,,1205.9012,,1153.9227
+W0145,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,10.3957,,,,10.3957,,10.3957
+W0146,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1268.2754,,,,1195.5055,,1122.7356
+W0147,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,10.3957,,,,10.3957,,10.3957
+W0148,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1268.2754,,,,1185.1098,,1112.3399
+W0149,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,10.3957,,,,10.3957,,10.3957
+W0150,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1819.2475,,,,1736.0819,,1673.7077
+W0151,Europe,European Union,,,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,20.7914,,,,15.59355,,15.59355
+W0152,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1819.2475,,,,1715.2905,,1632.1249
+W0153,Europe,European Union,,,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,20.7914,,,,15.59355,,15.59355
+W0154,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1819.2475,,,,1704.8948,,1611.3335
+W0155,Europe,European Union,,,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,20.7914,,,,15.59355,,15.59355
+W0156,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1143.527,,,,1081.1528,,1039.57
+W0157,Asia,China,CN,CHN,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,10.3957,,,,10.3957,,10.3957
+W0158,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1143.527,,,,1070.7571,,1018.7786
+W0159,Asia,China,CN,CHN,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,10.3957,,,,10.3957,,10.3957
+W0160,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1143.527,,,,1070.7571,,997.9872
+W0161,Asia,China,CN,CHN,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,10.3957,,,,10.3957,,10.3957
+W0162,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1164.3184,,,,1101.9442,,1049.9657
+W0163,Asia,India,IN,IND,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",STEPS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,15.59355,,,,10.3957,,10.3957
+W0164,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1164.3184,,,,1091.5485,,1018.7786
+W0165,Asia,India,IN,IND,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",APS Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,15.59355,,,,10.3957,,10.3957
+W0166,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1164.3184,,,,1081.1528,,997.9872
+W0167,Asia,India,IN,IND,Total O&M,OPEX_T,USD/MWh,Onshore,"IEA, 2023",NZE Scenario,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,15.59355,,,,10.3957,,10.3957
+W0168,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",100MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,3985.12962,,
+W0169,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",12MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2708.37393,,
+W0170,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",11.25MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2308.02556,,
+W0171,Europe,France,FR,FRA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",500MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,3520.54197,,
+W0172,Asia,Japan,JP,JPN,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",100MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,4633.25807,,
+W0173,Asia,Korea (Democratic People's Republic of),KP,PRK,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",99MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,4037.8976,,
+W0174,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2239.19776,,
+W0175,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2246.08054,,
+W0176,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2363.0878,,
+W0177,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2467.47663,,
+W0178,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2511.06757,,
+W0179,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2534.01017,,
+W0180,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2765.73043,,
+W0181,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2764.5833,,
+W0182,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2776.0546,,
+W0183,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2851.76518,,
+W0184,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2956.15401,,
+W0185,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2987.12652,,
+W0186,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2990.56791,,
+W0187,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",600MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,3285.38032,,
+W0188,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2020",50MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,,2598.24945,,
+W0189,Middle East,United Arab Emirates,AE,ARE,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.056,,,,,,,
+W0190,South America,Argentina,AR,ARG,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.138,,,,,,,
+W0191,Europe,Austria,AT,AUT,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.025,,,,,,,
+W0192,Oceania,Australia,AU,AUS,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.029,,,,,,,
+W0193,Asia,Azerbaijan,AZ,AZE,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.07,,,,,,,
+W0194,Europe,Bosnia and Herzegovina,BA,BIH,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.105,,,,,,,
+W0195,Asia,Bangladesh,BD,BGD,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.068,,,,,,,
+W0196,Europe,Belgium,BE,BEL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.035,,,,,,,
+W0197,Africa,Burkina Faso,BF,BFA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.085,,,,,,,
+W0198,Europe,Bulgaria,BG,BGR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.04,,,,,,,
+W0199,South America,Bolivia,BO,BOL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.087,,,,,,,
+W0200,South America,Brazil,BR,BRA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.049,,,,,,,
+W0201,Europe,Belarus,BY,BLR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.099,,,,,,,
+W0202,North America,Canada,CA,CAN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.03,,,,,,,
+W0203,Europe,Switzerland,CH,CHE,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.047,,,,,,,
+W0204,South America,Chile,CL,CHL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.045,,,,,,,
+W0205,Asia,China,CN,CHN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.025,,,,,,,
+W0206,South America,Colombia,CO,COL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.056,,,,,,,
+W0207,North America,Costa Rica,CR,CRI,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.056,,,,,,,
+W0208,North America,Cuba,CU,CUB,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.116,,,,,,,
+W0209,Europe,Cyprus,CY,CYP,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.044,,,,,,,
+W0210,Europe,Czechia,CZ,CZE,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.051,,,,,,,
+W0211,Europe,Germany,DE,DEU,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.013,,,,,,,
+W0212,Europe,Denmark,DK,DNK,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.015,,,,,,,
+W0213,North America,Dominican Republic,DO,DOM,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.071,,,,,,,
+W0214,Africa,Algeria,DZ,DZA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.114,,,,,,,
+W0215,South America,Ecuador,EC,ECU,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.122,,,,,,,
+W0216,Europe,Estonia,EE,EST,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.051,,,,,,,
+W0217,Africa,Egypt,EG,EGY,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.088,,,,,,,
+W0218,Europe,Spain,ES,ESP,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.031,,,,,,,
+W0219,Africa,Ethiopia,ET,ETH,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.056,,,,,,,
+W0220,Europe,Finland,FI,FIN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.019,,,,,,,
+W0221,Europe,France,FR,FRA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.018,,,,,,,
+W0222,Europe,United Kingdom,GB,GBR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.026,,,,,,,
+W0223,Africa,Ghana,GH,GHA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.095,,,,,,,
+W0224,Europe,Greece,GR,GRC,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.041,,,,,,,
+W0225,North America,Guatemala,GT,GTM,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.063,,,,,,,
+W0226,North America,Honduras,HN,HND,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.06,,,,,,,
+W0227,Europe,Croatia,HR,HRV,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.051,,,,,,,
+W0228,Europe,Hungary,HU,HUN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.037,,,,,,,
+W0229,Asia,Indonesia,ID,IDN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.06,,,,,,,
+W0230,Europe,Ireland,IE,IRL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.028,,,,,,,
+W0231,Middle East,Israel,IL,ISR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.05,,,,,,,
+W0232,Asia,India,IN,IND,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.059,,,,,,,
+W0233,Middle East,Iraq,IQ,IRQ,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.096,,,,,,,
+W0234,Europe,Italy,IT,ITA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.033,,,,,,,
+W0235,North America,Jamaica,JM,JAM,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.072,,,,,,,
+W0236,Middle East,Jordan,JO,JOR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.082,,,,,,,
+W0237,Asia,Japan,JP,JPN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.047,,,,,,,
+W0238,Africa,Kenya,KE,KEN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.056,,,,,,,
+W0239,Middle East,Kuwait,KW,KWT,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.053,,,,,,,
+W0240,Middle East,Lebanon,LB,LBN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.21,,,,,,,
+W0241,Asia,Sri Lanka,LK,LKA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.103,,,,,,,
+W0242,Europe,Lithuania,LT,LTU,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.026,,,,,,,
+W0243,Europe,Luxembourg,LU,LUX,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.031,,,,,,,
+W0244,Europe,Latvia,LV,LVA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.055,,,,,,,
+W0245,Africa,Morocco,MA,MAR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.061,,,,,,,
+W0246,Europe,Montenegro,ME,MNE,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.056,,,,,,,
+W0247,Asia,Myanmar,MM,MMR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.095,,,,,,,
+W0248,Asia,Mongolia,MN,MNG,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.067,,,,,,,
+W0249,Europe,Malta,MT,MLT,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.047,,,,,,,
+W0250,Africa,Mauritius,MU,MUS,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.06,,,,,,,
+W0251,North America,Mexico,MX,MEX,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.036,,,,,,,
+W0252,Asia,Malaysia,MY,MYS,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.054,,,,,,,
+W0253,Africa,Namibia,NA,NAM,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.069,,,,,,,
+W0254,North America,Nicaragua,NI,NIC,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.063,,,,,,,
+W0255,Europe,Netherlands,NL,NLD,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.025,,,,,,,
+W0256,Europe,Norway,NO,NOR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.045,,,,,,,
+W0257,Oceania,New Zealand,NZ,NZL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.03,,,,,,,
+W0258,North America,Panama,PA,PAN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.043,,,,,,,
+W0259,South America,Peru,PE,PER,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.052,,,,,,,
+W0260,Asia,Philippines,PH,PHL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.057,,,,,,,
+W0261,Asia,Pakistan,PK,PAK,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.092,,,,,,,
+W0262,Europe,Poland,PL,POL,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.033,,,,,,,
+W0263,Europe,Portugal,PT,PRT,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.032,,,,,,,
+W0264,Europe,Romania,RO,ROU,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.057,,,,,,,
+W0265,Africa,Rwanda,RW,RWA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.084,,,,,,,
+W0266,Middle East,Saudi Arabia,SA,SAU,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.062,,,,,,,
+W0267,Europe,Sweden,SE,SWE,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.035,,,,,,,
+W0268,Asia,Singapore,SG,SGP,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.046,,,,,,,
+W0269,Europe,Slovenia,SI,SVN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.055,,,,,,,
+W0270,Europe,Slovakia,SK,SVK,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.052,,,,,,,
+W0271,Africa,Senegal,SN,SEN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.07,,,,,,,
+W0272,North America,El Salvador,SV,SLV,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.092,,,,,,,
+W0273,Asia,Thailand,TH,THA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.058,,,,,,,
+W0274,Africa,Tunisia,TN,TUN,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.093,,,,,,,
+W0275,Middle East,Turkey,TR,TUR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.075,,,,,,,
+W0276,Europe,Ukraine,UA,UKR,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.099,,,,,,,
+W0277,Africa,Uganda,UG,UGA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.084,,,,,,,
+W0278,North America,United States of America,US,USA,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.03,,,,,,,
+W0279,South America,Uruguay,UY,URY,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.03,,,,,,,
+W0280,Middle East,Yemen,YE,YEM,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.206,,,,,,,
+W0281,Africa,South Africa,ZA,ZAF,Cost of Capital,WACC,%,Unspecified,"IRENA, 2023b",,,,,,,,,,,0.066,,,,,,,
+W0282,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2922.23127,,,,,,
+W0283,Asia,Japan,JP,JPN,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,6899.62609,,,,,,
+W0284,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,6982.79169,,,,,,,,
+W0285,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,3943.08901,,,,,,,,
+W0286,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,2545.90693,,,,,,,
+W0287,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,4386.9854,,,,,,
+W0288,Europe,Netherlands,NL,NLD,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2707.04028,,,,,,
+W0289,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,4044.96687,,,,,,
+W0290,Global,Global,,,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,3172.76764,3597.95177,,,,,,
+W0291,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,4061.59999,,,,,,
+W0292,Europe,European Union,,,Construction Time,BUILDTIME,Years,Offshore,"IRENA, 2023a","Belguim, Denmark, Germany .. UK",,,2,2.2,1.7,1.4,1.5,1.7,1.3,,,,,,,,
+W0293,Global,Global,,,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"IRENA, 2023a",,From 2022 USD to 2023 USD = 1.03957,,,122.66926,,,69.65119,,,,,,,,,,
+W0294,Europe,Germany,DE,DEU,Cost of Capital,WACC,%,Onshore,"Egli, 2018",,,,0.036,0.033,0.027,0.019,,,,,,,,,,,
+W0295,Europe,Austria,AT,AUT,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.059,,,,,,,,,,,
+W0296,Europe,Belgium,BE,BEL,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.033,,,,,,,,,,,
+W0297,Europe,Bulgaria,BG,BGR,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.094,,,,,,,,,,,
+W0298,Europe,Croatia,HR,HRV,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.114,,,,,,,,,,,
+W0299,Europe,Cyprus,CY,CYP,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.094,,,,,,,,,,,
+W0300,Europe,Czechia,CZ,CZE,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.074,,,,,,,,,,,
+W0301,Europe,Denmark,DK,DNK,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.051,,,,,,,,,,,
+W0302,Europe,Estonia,EE,EST,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.091,,,,,,,,,,,
+W0303,Europe,Finland,FI,FIN,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.059,,,,,,,,,,,
+W0304,Europe,France,FR,FRA,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.051,,,,,,,,,,,
+W0305,Europe,Germany,DE,DEU,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.03,,,,,,,,,,,
+W0306,Europe,Greece,GR,GRC,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.117,,,,,,,,,,,
+W0307,Europe,Hungary,HU,HUN,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.107,,,,,,,,,,,
+W0308,Asia,India,IN,IND,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.114,,,,,,,,,,,
+W0309,Europe,Ireland,IE,IRL,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.084,,,,,,,,,,,
+W0310,Europe,Italy,IT,ITA,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.074,,,,,,,,,,,
+W0311,Europe,Latvia,LV,LVA,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.087,,,,,,,,,,,
+W0312,Europe,Lithuania,LT,LTU,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.079,,,,,,,,,,,
+W0313,Europe,Netherlands,NL,NLD,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.057,,,,,,,,,,,
+W0314,Europe,Poland,PL,POL,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.087,,,,,,,,,,,
+W0315,Europe,Portugal,PT,PRT,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.074,,,,,,,,,,,
+W0316,Europe,Romania,RO,ROU,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.105,,,,,,,,,,,
+W0317,Europe,Slovakia,SK,SVK,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.075,,,,,,,,,,,
+W0318,Europe,Slovenia,SI,SVN,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.104,,,,,,,,,,,
+W0319,Europe,Spain,ES,ESP,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.094,,,,,,,,,,,
+W0320,Europe,Sweden,SE,SWE,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.094,,,,,,,,,,,
+W0321,Europe,United Kingdom,GB,GBR,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.062,,,,,,,,,,,
+W0322,North America,United States of America,US,USA,Cost of Capital,WACC,%,Onshore,"Steffen, 2020",,,,,,,0.065,,,,,,,,,,,
+W0323,Europe,Belgium,BE,BEL,Cost of Capital,WACC,%,Offshore,"Steffen, 2020",,,,,,,0.055,,,,,,,,,,,
+W0324,Europe,Denmark,DK,DNK,Cost of Capital,WACC,%,Offshore,"Steffen, 2020",,,,,,,0.078,,,,,,,,,,,
+W0325,Europe,Germany,DE,DEU,Cost of Capital,WACC,%,Offshore,"Steffen, 2020",,,,,,,0.063,,,,,,,,,,,
+W0326,Europe,Netherlands,NL,NLD,Cost of Capital,WACC,%,Offshore,"Steffen, 2020",,,,,,,0.098,,,,,,,,,,,
+W0327,Europe,United Kingdom,GB,GBR,Cost of Capital,WACC,%,Offshore,"Steffen, 2020",,,,,,,0.126,,,,,,,,,,,
+W0328,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2024",200MW|2.8WTG,In 2023 USD,,,,,,,,,,,1489,,,,,
+W0329,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"EIA, 2024",200MW|2.8WTG,In 2023 USD,,,,,,,,,,,33.06,,,,,
+W0330,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2024","200MW - 12 months Development, permitting, engineering + 9 months physical construction",,,,,,,,,,,,1.75,,,,,
+W0331,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"EIA, 2024",200MW|2.8WTG,,,,,,,,,,,,25,,,,,
+W0332,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2024",150MW|1.5WTG,In 2023 USD,,,,,,,,,,,1386,,,,,
+W0333,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"EIA, 2024",150MW|1.5WTG,In 2023 USD,,,,,,,,,,,38.55,,,,,
+W0334,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2024","150MW - 12 months Development, permitting, engineering + 6 months physical construction ",,,,,,,,,,,,1.5,,,,,
+W0335,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"EIA, 2024",150MW|1.5WTG,,,,,,,,,,,,20,,,,,
+W0336,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"EIA, 2024",900MW|15WTG,In 2023 USD,,,,,,,,,,,3689,,,,,
+W0337,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"EIA, 2024",900MW|15WTG,In 2023 USD,,,,,,,,,,,154,,,,,
+W0338,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Offshore,"EIA, 2024","900MW|15WTG - 24 months Development, permitting, engineering + 12 months physical construction",,,,,,,,,,,,3,,,,,
+W0339,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Offshore,"EIA, 2024",900MW|15WTG,,,,,,,,,,,,25,,,,,
+W0340,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"Lazard, 2023",mean value,In 2023 USD,,,,,,,,,,,1362.5,,,,,
+W0341,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"Lazard, 2023",mean value,In 2023 USD,,,,,,,,,,,27.5,,,,,
+W0342,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"Lazard, 2023",mean value,In 2023 USD,,,,,,,,,,,4000,,,,,
+W0343,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"Lazard, 2023",mean value,In 2023 USD,,,,,,,,,,,70,,,,,
+W0344,Global,Global,,,Capital Cost,CAPEX,USD/kW,Onshore,"Lazard, 2023",mean value,In 2023 USD,,,1500,,,,,1250,,,,,,,,
+W0345,Global,Global,,,Capital Cost,CAPEX,USD/kW,Offshore,"Lazard, 2023",mean value,In 2023 USD,,,4300,,,,,3137.5,,,,,,,,
+W0346,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a",Advanced Scenario - ost and performance trajectories for each technology are based on aggressive historical learning rates,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1394.78352,1568.58832,1467.56428,1303.536,1273.12016,1121.04096,995.03248,869.024
+W0347,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a",Advanced Scenario - ost and performance trajectories for each technology are based on aggressive historical learning rates,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,31.50212,30.41584,29.32956,26.07072,21.7256,16.2942
+W0348,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a",Moderate Scenario - based on bottom-up scaling relationships and process-based balance-of-system and turbine component cost models,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1394.78352,1576.19228,1480.59964,1322.00276,1298.1046,1176.44124,1061.29556,945.0636
+W0349,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a",Moderate Scenario - based on bottom-up scaling relationships and process-based balance-of-system and turbine component cost models,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,31.50212,31.50212,29.32956,27.157,24.98444
+W0350,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"NREL, 2023a",Conservative Scenario - Cost and performance trajectories for each technology are based on conservative historical learning rates,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1394.78352,1592.48648,1512.10176,1364.36768,1354.59116,1303.536,1215.54732,1127.55864
+W0351,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"NREL, 2023a",Conservative Scenario - Cost and performance trajectories for each technology are based on conservative historical learning rates,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,32.5884,32.5884,32.5884,32.5884,32.5884,31.50212,30.41584,29.32956
+W0352,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"NREL, 2023a","Advanced Scenario - Turbine size increases at a rate that is considerably higher than in recent years; accelerated technology innovation enables large turbine systems and fundamentally changes the manufacturing, installation, operation, and performance of a wind plant",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,2383.29832,2586.43268,2380.03948,2093.26156,2034.60244,1842.33088,1637.02396,1514.27432
+W0353,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"NREL, 2023a","Advanced Scenario - Turbine size increases at a rate that is considerably higher than in recent years; accelerated technology innovation enables large turbine systems and fundamentally changes the manufacturing, installation, operation, and performance of a wind plant",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,115.14568,109.71428,105.36916,102.11032,99.93776,89.07496,76.0396,68.43564
+W0354,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"NREL, 2023a","Moderate Scenario - Turbine size increases at a rate commensurate with growth in recent years; logistical, manufacturing, operating and performance constraints are addressed by technology innovation in turbine",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,2570.13848,2809.12008,2599.46804,2296.39592,2242.08192,2060.67316,1867.31532,1751.08336
+W0355,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"NREL, 2023a","Moderate Scenario - Turbine size increases at a rate commensurate with growth in recent years; logistical, manufacturing, operating and performance constraints are addressed by technology innovation in turbine",From 2021 USD to 2023 USD = 1.08628,,,,,,,,,121.66336,117.31824,112.97312,109.71428,107.54172,97.7652,86.9024,80.38472
+W0356,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"NREL, 2023a",Conservative Scenario - Turbine size remains at a level consistent with the technology solutions available in today's markets; limited advancements in technology innovation are characteristic of this scenario.,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,2929.69716,3253.4086,3048.10168,2720.04512,2678.76648,2540.80892,2393.07484,2305.08616
+W0357,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"NREL, 2023a",Conservative Scenario - Turbine size remains at a level consistent with the technology solutions available in today's markets; limited advancements in technology innovation are characteristic of this scenario.,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,133.61244,130.3536,128.18104,126.00848,124.9222,118.40452,110.80056,106.45544
+W0358,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"NREL, 2023b",,,,,,,,,,,30,,,,,,,
+W0359,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Offshore,"NREL, 2023b",,,,,,,,,,,30,,,,,,,
+W0360,Global,Global,,,Lifetime,LIFETIME,Years,Unspecified,"IEA, 2020",,,,,,,,,,,,,,,25,,,
+W0361,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"Lazard, 2023",,,,,,,,,,,,,12,,,,,
+W0362,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"Lazard, 2023",,,,,,,,,,,,,20,,,,,
+W0363,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Offshore,"Lazard, 2023",,,,,,,,,,,,,12,,,,,
+W0364,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Offshore,"Lazard, 2023",,,,,,,,,,,,,20,,,,,
+W0365,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"LBNL, 2018",,,,,,,,3.5,,,,,,,,,,
+W0366,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"ASSET, 2018",Medium Potential ,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,1569.50115,,,,,,1142.88771,1385.145618,1678.754935
+W0367,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"ASSET, 2018",Medium Potential ,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,16.96758,,,,,,14.54364,17.62645537,21.36273512
+W0368,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"ASSET, 2018",High Potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,1308.9276,,,,,,947.76054,1148.657342,1392.138238
+W0369,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"ASSET, 2018",High Potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,21.81546,,,,,,19.39152,23.50194049,28.48364682
+W0370,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"ASSET, 2018",Very High Potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,1454.364,,,,,,1027.75056,1245.602846,1509.633282
+W0371,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"ASSET, 2018",Very High Potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,26.66334,,,,,,24.2394,29.37742562,35.60455853
+W0372,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"ASSET, 2018",Low Potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,2694.20931,,,,,,2119.73553,2569.05587,3113.618643
+W0373,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,39.99501,,,,,,31.51122,38.1906533,46.28592608
+W0374,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"ASSET, 2018",Medium Potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,3366.85266,,,,,,2291.83527,2777.635592,3366.411009
+W0375,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,50.90274,,,,,,33.93516,41.12839587,49.84638194
+W0376,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"ASSET, 2018",High Potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,3885.57582,,,,,,2714.8128,3290.271669,3987.710555
+W0377,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,58.17456,,,,,,41.20698,49.94162355,60.52774949
+W0378,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"ASSET, 2018",Very high potential,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,4464.89748,,,,,,3199.6008,3877.820182,4699.801725
+W0379,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,66.65835,,,,,,47.26683,57.28597996,69.42888913
+W0380,Europe,European Union,,,Lifetime,LIFETIME,Years,Onshore,"ASSET, 2018",,,,,,,,,,25,,,,,,25,25,25
+W0381,Europe,European Union,,,Lifetime,LIFETIME,Years,Offshore,"ASSET, 2018",,,,,,,,,,25,,,,,,25,25,25
+W0382,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2020",200 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,1417.053,,,,,,,,,
+W0383,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"EIA, 2020",200 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,29.506068,,,,,,,,,
+W0384,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2020","200MW - 12 months Development, permitting, engineering + 9 months physical construction + 21 months lead time before generating energy ",,,,,,,,3.5,,,,,,,,,
+W0385,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"EIA, 2020",200MW|2.8WTG,,,,,,,,25,,,,,,,,,
+W0386,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2020",50 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,1878.5754,,,,,,,,,
+W0387,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"EIA, 2020",50 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,39.363828,,,,,,,,,
+W0388,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2020","50MW - 12 months Development, permitting, engineering + 6 months physical construction + 18 months lead time before generating energy ",,,,,,,,3,,,,,,,,,
+W0389,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Onshore,"EIA, 2020",50MW|2.8WTG,,,,,,,,25,,,,,,,,,
+W0390,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"EIA, 2020",400 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,4900.875,,,,,,,,,
+W0391,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"EIA, 2020",400 MW,From 2019 USD to 2023 USD = 1.12020,,,,,,,123.222,,,,,,,,,
+W0392,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Offshore,"EIA, 2020","400MW|10WTG - 24 months Development, permitting, engineering + 12 months physical construction + 36 months lead time before generating energy ",,,,,,,,6,,,,,,,,,
+W0393,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Offshore,"EIA, 2020",400MW|10WTG,,,,,,,,25,,,,,,,,,
+W0394,Asia,Philippines,PH,PHL,Capital Cost,CAPEX,USD/kW,Unspecified,"ASEAN Centre for Energy, 2019",,From 2019 USD to 2023 USD = 1.12020,,,,,,,3024.54,,,,,,,,,
+W0395,Asia,Philippines,PH,PHL,Capital Cost,CAPEX,USD/kW,Unspecified,"ASEAN Centre for Energy, 2019",,From 2019 USD to 2023 USD = 1.12020,,,,,,,2666.076,,,,,,,,,
+W0396,Asia,Thailand,TH,THA,Capital Cost,CAPEX,USD/kW,Unspecified,"ASEAN Centre for Energy, 2019",,From 2019 USD to 2023 USD = 1.12020,,,,,,,3033.5016,,,,,,,,,
+W0397,Asia,Thailand,TH,THA,Capital Cost,CAPEX,USD/kW,Unspecified,"ASEAN Centre for Energy, 2019",,From 2019 USD to 2023 USD = 1.12020,,,,,,,1700.4636,,,,,,,,,
+W0398,Asia,Viet Nam,VN,VNM,Capital Cost,CAPEX,USD/kW,Unspecified,"ASEAN Centre for Energy, 2019",,From 2019 USD to 2023 USD = 1.12020,,,,,,,2632.47,,,,,,,,,
+W0399,Asia,ASEAN,,,Cost of Capital,WACC,%,Onshore,"ASEAN Centre for Energy, 2019",Nominal WACC for utility scale. Real WACC is 2.5%. Extracted from Table 1,,,,,,,,0.046,,,,,,,,,
+W0400,Asia,ASEAN,,,Cost of Capital,WACC,%,Offshore,"ASEAN Centre for Energy, 2019",Nominal WACC for utility scale. Real WACC is 4.8%. Extracted from Table 1,,,,,,,,0.069,,,,,,,,,
+W0401,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kW,Onshore,"Fraunhofer ISE, 2021","Onshore Wind, low estimate. Converted using 1 USD: 0.8926 EUR",From 2021 EUR to 2023 USD = 1.13948,,,,,,,,,1595.272,,,,,,,
+W0402,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kW,Onshore,"Fraunhofer ISE, 2021","Onshore Wind, high estimate. Converted using 1 USD: 0.8926 EUR",From 2021 EUR to 2023 USD = 1.13948,,,,,,,,,2278.96,,,,,,,
+W0403,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kW,Offshore,"Fraunhofer ISE, 2021","Offshore Wind, low estimate. Converted using 1 USD: 0.8926 EUR",From 2021 EUR to 2023 USD = 1.13948,,,,,,,,,3418.44,,,,,,,
+W0404,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kW,Offshore,"Fraunhofer ISE, 2021","Offshore Wind, high estimate. Converted using 1 USD: 0.8926 EUR",From 2021 EUR to 2023 USD = 1.13948,,,,,,,,,4557.92,,,,,,,
+W0405,Europe,Germany,DE,DEU,Total O&M,OPEX_T,USD/kW/yr,Onshore,"Fraunhofer ISE, 2021",Onshore Wind.,From 2021 EUR to 2023 USD = 1.13948,,,,,,,,,22.7896,,,,,,,
+W0406,Europe,Germany,DE,DEU,Total O&M,OPEX_T,USD/kW/yr,Offshore,"Fraunhofer ISE, 2021",Offshore Wind.,From 2021 EUR to 2023 USD = 1.13948,,,,,,,,,79.7636,,,,,,,
+W0407,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1880.35068,,,,,,,
+W0408,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Onshore,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,2181.01786,,,,,,
+W0409,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Onshore,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,22.0188956,,,,,,,
+W0410,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Onshore,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,30.8128548,,,,,,
+W0411,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,3,,,,,,,
+W0412,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Onshore,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,3,,,,,,
+W0413,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,5249.99124,,,,,,,
+W0414,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Offshore,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,5549.22466,,,,,,
+W0415,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Offshore,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,125.0960048,,,,,,,
+W0416,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/kW/yr,Offshore,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,128.7091617,,,,,,
+W0417,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Offshore,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,4,,,,,,,
+W0418,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Offshore,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,4,,,,,,
+W0419,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Onshore,"CSIRO, 2023",Under the Current Policies scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,1736.5866,1737.9012,1655.7387,1576.2054,1307.3697,1287.6507,1266.6171
+W0420,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Onshore,"CSIRO, 2023",Under the Global NZE by 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,1736.5866,1737.9012,1657.0533,1579.4919,1257.4149,1130.556,1079.2866
+W0421,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Onshore,"CSIRO, 2023",Under the Global NZE post 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,1736.5866,1737.9012,1655.7387,1576.2054,1248.87,1194.3141,1266.6171
+W0422,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Offshore,"CSIRO, 2023",Under the Current Policies scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,3734.7786,3602.004,3475.8024,3354.2019,3157.0119,3062.3607,2965.0803
+W0423,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Offshore,"CSIRO, 2023",Under the Global NZE by 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,3734.7786,3212.8824,2956.5354,2715.3063,1810.8615,1701.7497,1668.8847
+W0424,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Offshore,"CSIRO, 2023",Under the Global NZE post 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,3734.7786,3602.004,3475.8024,3354.2019,2860.5696,2621.3124,2465.5323
+W0425,Global,Global,,,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,4993.45689,,,,,,,,,,
+W0426,Global,Global,,,Cost of Capital,WACC,%,Offshore,"IEA, 2019",,,,,,,,0.075,,,,,,,,,,
+W0427,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,4588.52,,,,,,,,,,
+W0428,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Offshore,"IEA, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,3211.964,,,,,,,,,,
+W0429,Global,Global,,,Total O&M,OPEX_T,USD/kW/yr,Offshore,"IEA, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,103.2417,,,,,,,,,,
+W0430,North America,North America,,,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,4305.024477,3996.275884,3821.170903,3702.038132,3192.896836,2786.21388,2669.728712
+W0431,South America,South America,,,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,3990.812608,3662.147185,3481.191155,3359.157775,2859.918169,2469.862459,2352.636501
+W0432,Europe,Europe,,,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,2827.181666,2573.833551,2438.342822,2348.374812,1995.281502,1745.735029,1701.416551
+W0433,Middle East,MENA,,,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,3990.812608,3662.147185,3481.191155,3359.157775,2859.923615,2552.903301,2983.550227
+W0434,Europe,Russian Federation & FSU,RU,RUS,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,3995.760487,3667.351619,3486.663047,3364.904833,2867.087802,2480.635649,2367.971939
+W0435,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,2224.617843,2032.877748,1929.636567,1860.961321,1588.267417,1400.030213,1401.41016
+W0436,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,3484.498295,3165.247595,2993.209612,2877.997929,2422.420715,2415.939728,2537.440142
+W0437,Asia,South East Asia,,,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,3995.760487,3667.351619,3486.663047,3364.904833,2867.087802,2480.635675,2367.983287
+W0438,Asia,OECD Asia & Oceania,,,Capital Cost,CAPEX,USD/kW,Offshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,3995.760487,3667.351619,3486.663047,3364.904833,2867.087802,2480.635649,2367.971939
+W0439,North America,North America,,,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,9903.05696,8910.254768,8065.076878,7405.959921,5305.502216,3590.784531,2994.048116
+W0440,South America,South America,,,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,9291.13272,8329.687319,7539.31036,6928.067365,4970.413072,3380.176492,2823.000727
+W0441,Europe,Europe,,,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,6994.607672,6270.980756,5686.586393,5237.632603,3808.443416,2682.326555,2297.040602
+W0442,Middle East,MENA,,,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,9456.290416,8480.691512,7675.446475,7052.039616,5055.934885,3431.828467,2862.665662
+W0443,Europe,Russian Federation & FSU,RU,RUS,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,9465.049155,8489.944744,7685.231532,7062.39208,5069.700375,3452.577129,2887.254095
+W0444,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,6081.618096,5468.529325,4956.324601,4559.275214,3298.284548,2291.1022,1945.961315
+W0445,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,9323.42013,8356.717616,7560.793397,6944.747459,4968.672015,3354.257832,2785.806857
+W0446,Asia,South East Asia,,,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,9349.696345,8384.477313,7590.148567,6975.804849,5009.968484,3416.501302,2859.550516
+W0447,Asia,OECD Asia & Oceania,,,Capital Cost,CAPEX,USD/kW,Floating,"DNV, 2023",,In 2023 USD,,,,,,,,,,8171.849775,7307.568548,6619.2737,6091.678382,4400.057009,3048.137592,2576.674304
+W0448,North America,North America,,,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1918.777085,1755.874499,1648.275177,1589.455293,1441.39113,1285.718386,1193.929374
+W0449,South America,South America,,,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1609.715152,1456.312315,1355.265429,1300.46301,1166.258503,1028.869026,948.1716295
+W0450,Europe,Europe,,,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1678.414095,1512.889569,1403.944977,1344.99528,1201.794125,1056.336707,970.9614121
+W0451,Middle East,MENA,,,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1427.072041,1283.358864,1188.807462,1137.705509,1014.108676,889.162494,815.9200167
+W0452,Europe,Russian Federation & FSU,RU,RUS,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1491.722466,1350.25457,1257.0738,1206.542648,1082.777079,955.9266338,881.2835737
+W0453,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,804.3421177,742.1181634,700.9872428,678.4443179,620.8886116,558.9781452,521.777179
+W0454,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1172.495894,1047.300095,965.0256395,920.7077982,814.8386689,709.2217012,647.4792188
+W0455,Asia,South East Asia,,,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1306.830611,1172.389206,1083.987568,1036.28624,921.5389012,806.0969643,738.4099652
+W0456,Asia,OECD Asia & Oceania,,,Capital Cost,CAPEX,USD/kW,Onshore,"DNV, 2023",,In 2023 USD,,,,,,,,,,1773.386417,1599.975529,1485.802723,1423.96716,1273.333957,1120.035732,1030.170678
+W0457,Europe,European Union,,,Lifetime,LIFETIME,Years,Onshore,"TYNDP, 2022",,,,,,,,,,,,,,,30,30,30,30
+W0458,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"TYNDP, 2022",NT Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,1290.38206,1207.9184,1108.03284,1055.76714
+W0459,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"TYNDP, 2022",DE Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,1161.46,1062.7359,948.91282,880.38668
+W0460,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Onshore,"TYNDP, 2022",GA Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,1476.21566,1416.9812,1354.26236,1308.96542
+W0461,Europe,European Union,,,Total O&M,OPEX_T,USD/kW/yr,Onshore,"TYNDP, 2022",NT Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,15.912002,14.634396,13.124498,12.427622
+W0462,Europe,European Union,,,Total O&M,OPEX_T,USD/kW/yr,Onshore,"TYNDP, 2022",DE Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,13.008352,12.19533,10.569286,9.988556
+W0463,Europe,European Union,,,Total O&M,OPEX_T,USD/kW/yr,Onshore,"TYNDP, 2022",GA Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,18.815652,17.073462,15.563564,14.982834
+W0464,Europe,European Union,,,Lifetime,LIFETIME,Years,Offshore,"TYNDP, 2022",,,,,,,,,,,,,,,30,30,30,30
+W0465,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"TYNDP, 2022",NT Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,2396.09198,2241.6178,2080.17486,1961.70594
+W0466,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"TYNDP, 2022",DE Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,2541.27448,2411.19096,2269.49284,2149.86246
+W0467,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Offshore,"TYNDP, 2022",GA Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,2089.46654,1881.5652,1677.14824,1565.64808
+W0468,Europe,European Union,,,Total O&M,OPEX_T,USD/kW/yr,Offshore,"TYNDP, 2022",NT Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,44.948502,41.928706,38.095888,35.656822
+W0469,Europe,European Union,,,Total O&M,OPEX_T,USD/kW/yr,Offshore,"TYNDP, 2022",DE Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,47.736006,45.064648,41.696414,39.373494
+W0470,Europe,European Union,,,Total O&M,OPEX_T,USD/kW/yr,Offshore,"TYNDP, 2022",GA Scenario,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,39.48964,35.42453,30.894836,28.688062
+W0471,Europe,European Union,,,Lifetime,LIFETIME,Years,Onshore,"ASSET, 2018",,,,,,,,,,25,,,,,,25,25,25
+W0472,Europe,European Union,,,Lifetime,LIFETIME,Years,Offshore,"ASSET, 2018",,,,,,,,,,25,,,,,,25,25,25
+W0473,Europe,European Union,,,Total O&M,OPEX_T,USD/MWh,Onshore,"Trinomics, 2020",,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,,,,,,23.2292,23.2292,23.2292,23.2292
+W0474,Europe,United Kingdom,GB,GBR,Lifetime,LIFETIME,Years,Onshore,"DESNZ, 2023",,,,,,,,,,,,,,,25,25,25,
+W0475,Europe,United Kingdom,GB,GBR,Lifetime,LIFETIME,Years,Offshore,"DESNZ, 2023",,,,,,,,,,,,,,,30,30,30,
+W0476,Europe,United Kingdom,GB,GBR,Lifetime,LIFETIME,Years,Floating,"DESNZ, 2023",,,,,,,,,,,,,,,24,28,28,
+W0477,Europe,United Kingdom,GB,GBR,Construction Time,BUILDTIME,Years,Onshore,"DESNZ, 2023",Note: this becomes 6 years if including pre-development period,,,,,,,,,,,,,,2,2,2,
+W0478,Europe,United Kingdom,GB,GBR,Construction Time,BUILDTIME,Years,Offshore,"DESNZ, 2023",Note: this becomes 7 years if including pre-development period,,,,,,,,,,,,,,2,2,2,
+W0479,Europe,United Kingdom,GB,GBR,Construction Time,BUILDTIME,Years,Floating,"DESNZ, 2023",Note: this becomes 5 years if including pre-development period,,,,,,,,,,,,,,3,3,3,
+W0480,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Onshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,1199.00572,1199.00572,1199.00572,
+W0481,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Onshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,1568.91174,1568.91174,1568.91174,
+W0482,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Onshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,1798.50858,1798.50858,1798.50858,
+W0483,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Offshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,1734.73168,1607.17788,1479.62408,
+W0484,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Offshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,2079.12694,2308.72378,2244.94688,
+W0485,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Offshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,2806.1836,2716.89594,3137.82348,
+W0486,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Floating,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,3826.614,2780.67284,2372.50068,
+W0487,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Floating,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,5931.2517,3648.03868,3367.42032,
+W0488,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kW,Floating,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,8278.24162,5446.54726,4489.89376,
+W0489,Europe,United Kingdom,GB,GBR,Fixed O&M,OPEX_F,USD/kW/yr,Onshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,32.3986652,32.526219,33.0364342,
+W0490,Europe,United Kingdom,GB,GBR,Fixed O&M,OPEX_F,USD/kW/yr,Offshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,55.2307954,53.7001498,53.8277036,
+W0491,Europe,United Kingdom,GB,GBR,Fixed O&M,OPEX_F,USD/kW/yr,Floating,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,143.7531326,138.0132116,113.522882,
+W0492,Europe,United Kingdom,GB,GBR,Variable O&M,OPEX_V,USD/MWh,Onshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,7.653228,7.653228,7.653228,
+W0493,Europe,United Kingdom,GB,GBR,Variable O&M,OPEX_V,USD/MWh,Offshore,"DESNZ, 2023",,From 2021 GBP to 2023 USD = 1.275538,,,,,,,,,,,,,1.275538,1.275538,1.275538,
+W0494,Europe,United Kingdom,GB,GBR,Cost of Capital,WACC,%,Onshore,"DESNZ, 2023",,,,,,,,,,,,,,,0.052,0.052,0.052,
+W0495,Europe,United Kingdom,GB,GBR,Cost of Capital,WACC,%,Offshore,"DESNZ, 2023",,,,,,,,,,,,,,,0.063,0.063,0.063,
+W0496,Europe,United Kingdom,GB,GBR,Cost of Capital,WACC,%,Floating,"DESNZ, 2023",,,,,,,,,,,,,,,0.078,0.078,0.078,
