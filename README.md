@@ -1,13 +1,13 @@
 # GNESTE: The Global and National Energy Systems Techno-Economic Database
 
 The goal of GNESTE is to develop a comprehensive database of cost and performance data for key electricity generation and storage technologies:	
-* Batteries
 * Coal Power
 * Gas Power
 * Hydro Power
 * Nuclear Power
 * Solar Power
 * Wind Power
+* Battery Energy Storage Systems
 
 Data are collected on:	
 * Capital Cost
@@ -20,13 +20,13 @@ Data are collected on:
 * Operating Lifetime
 * Cost of Capital
 	
-The GNESTE database is documented in a series of papers submitted to the [Data in Brief journal](https://www.sciencedirect.com/journal/data-in-brief).  Once published, please consult the article for each technology via the links above, which details the process for collecting	data, defines all variables and categories of data, and gives examples of its usage. 
+The GNESTE database is documented in a paper submitted to the [Data in Brief journal](https://www.sciencedirect.com/journal/data-in-brief).  Once published, please consult the article which details the process for collecting data, defines all variables and categories of data, and gives examples of its usage. 
 
 The files presented here are in machine-readable CSV format.  The same data are also made available in Excel format, with additional metadata and documentation, available from Zenodo (links TBC).
 
 ## Citation
 
-Once the Data in Brief articles are published, please cite the specific article (linked to above) that relates to the data file you use.  If you use multiple files (for multiple technologies) in your work, please cite all the relevant Data in Breif papers for transparency and reproducibility.
+Once the Data in Brief article is published, please cite that article if you use this data - rather than citing this GitHub repository.
 
 ## License
 
