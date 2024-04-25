@@ -1,4 +1,3 @@
-# GNESTE Database | Coal Power | 2024.04.25 | CC-BY-4.0 | Citation: Luke Hatton; Nathan Johnson; Lara Dixon; Bosi Mosongo; Savanha De Kock; Andrew Marquard; Mark Howells; Iain Staffell. The Global and National Energy Systems Techno-Economic (GNESTE) Database: Cost and performance data for electricity generation and storage technologies. 2024. Submitted to Data in Brief.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Technology,ID,Continent,Country,ISO2,ISO3,Variable,Code,Unit,Category,Source,Notes,Currency,Energy/Power Ratio,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2030,2040,2050
 Coal,C0001,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal - Supercritical,"IEA, 2020",722 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2790.96729,,,
 Coal,C0002,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal CCUS - Supercritical,"IEA, 2020",633 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,5150.6137,,,
