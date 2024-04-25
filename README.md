@@ -22,7 +22,7 @@ Data are collected on:
 	
 The GNESTE database is documented in a paper submitted to the [Data in Brief journal](https://www.sciencedirect.com/journal/data-in-brief).  Once published, please consult the article which details the process for collecting data, defines all variables and categories of data, and gives examples of its usage. 
 
-The files presented here are in machine-readable CSV format.  The same data are also made available in Excel format, with additional metadata and documentation, available from Zenodo (links TBC).
+The files presented here are in machine-readable CSV format.  The same data are also made available in Excel format, with additional metadata and documentation, from [Zenodo](https://zenodo.org/records/11065567).
 
 ## Citation
 
