@@ -1,236 +1,236 @@
-# GNESTE Database | Battery Storage | 2024.04.17 | CC-BY-4.0 | Citation: Luke Hatton, Nathan Johnson, Lara Dixon, Bosi Mosongo, Savanha De Kock, Andrew Marquard, Mark Howells, Iain Staffell. The Global and National Energy Systems Techno-Economic (GNESTE) Database: Economic and performance data for battery storage in current and future electricity systems. 2024. Submitted to Data in Brief.
-ID,Continent,Country,ISO2,ISO3,Variable,Code,Unit,Category,Source,Notes,Currency,Energy/Power Ratio,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2030,2040,2050
-B0001,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"BNEF, 2019",For a 20MW/80MWh System,From 2018 USD to 2023 USD = 1.14713,4,,,,630.0593374,387.1412493,366.5419921,345.9332813,324.2468673,301.4732966,276.5348658,253.7612951,232.0654275,185.2987798,,
-B0002,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Deutsche Bank, 2016",Stationary Energy System average,From 2016 USD to 2023 USD = 1.18063,,,1494.680479,1373.075353,1200.703039,1114.516882,1027.150092,974.0216393,,,,,,,,
-B0003,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"NREL, 2021",High Cost projections for 4 hour system,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,379.65525,366.44985,355.44535,346.64175,335.63725,324.63275,272.9116,272.9116,272.9116
-B0004,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"NREL, 2021",Medium Cost projections for 4 hour system,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,379.65525,356.5458,334.5368,311.42735,289.41835,266.3089,217.8891,191.4783,163.96705
-B0005,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"NREL, 2021",Low Cost projections for 4 hour system,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,379.65525,347.7422,319.1305,290.5188,261.9071,234.39585,162.8666,126.55175,97.94005
-B0006,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1973.10685,,,,,,1393.1697,,
-B0007,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1669.38265,,,,,,1606.657,,
-B0008,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2244.918,,,,,,1215.99725,,
-B0009,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1808.03935,,,,,,1272.1202,,
-B0010,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1528.52505,,,,,,1109.2536,,
-B0011,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2055.6406,,,,,,1468.0003,,
-B0012,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1695.79345,,,,,,1189.58645,,
-B0013,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1432.7859,,,,,,1038.8248,,
-B0014,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1927.9884,,,,,,1374.46205,,
-B0015,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.84198,3.9726245,,
-B0016,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.357782,3.587467,,
-B0017,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,5.326178,4.4018,,
-B0018,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.4348135,3.631485,,
-B0019,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,3.9946335,3.279341,,
-B0020,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.8749935,4.0386515,,
-B0021,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.1707055,3.411395,,
-B0022,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,3.7525345,3.08126,,
-B0023,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.577872,3.785548,,
-B0024,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lithium-ion LFP,"PNNL, 2020a","1 MW / 4 hr, 10 MW/4 hr and 100 MW/4hr",From 2020 USD to 2023 USD = 1.10045,4,,,,,,,0.564,,,,,,0.564,,
-B0025,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2022.6271,,,,,,1198.39005,,
-B0026,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1691.39165,,,,,,1015.71535,,
-B0027,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2335.1549,,,,,,1363.45755,,
-B0028,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1854.25825,,,,,,1324.9418,,
-B0029,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1549.4336,,,,,,1134.56395,,
-B0030,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2142.57615,,,,,,1502.11425,,
-B0031,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1739.81145,,,,,,1241.3076,,
-B0032,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1452.594,,,,,,1061.93425,,
-B0033,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2010.52215,,,,,,1407.47555,,
-B0034,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,505.10655,,,,,,299.3224,,
-B0035,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,422.5728,,,,,,254.20395,,
-B0036,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,584.33895,,,,,,341.1395,,
-B0037,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,463.28945,,,,,,331.23545,,
-B0038,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,387.3584,,,,,,283.9161,,
-B0039,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,535.91915,,,,,,375.25345,,
-B0040,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,434.67775,,,,,,310.3269,,
-B0041,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,363.1485,,,,,,265.20845,,
-B0042,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,502.90565,,,,,,352.144,,
-B0043,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.9630295,4.071665,,
-B0044,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.467827,3.675503,,
-B0045,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,5.458232,4.511845,,
-B0046,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.5448585,3.7305255,,
-B0047,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.093674,3.367377,,
-B0048,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,5.0070475,4.137692,,
-B0049,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.2807505,3.5104355,,
-B0050,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,3.851575,3.169296,,
-B0051,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.6989215,3.895593,,
-B0052,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lithium-ion,"PNNL, 2020a","1 MW / 4 hr, 10 MW/4 hr and 100 MW/4hr",From 2020 USD to 2023 USD = 1.10045,4,,,,,,,0.564,,,,,,0.564,,
-B0053,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion LFP,"PNNL, 2020a",,,,,,,,,,0.86,,,,,,0.88,,
-B0054,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion NMC,"PNNL, 2020a",,,,,,,,,,0.86,,,,,,0.88,,
-B0055,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,1024.36204,1151.4568,827.74536,782.1216,741.92924,584.41864,482.30832,379.11172
-B0056,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,1024.36204,1151.4568,1110.17816,1064.5544,936.37336,813.62372,701.73688,587.67748
-B0057,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,1024.36204,1151.4568,1193.82172,1202.51196,1186.21776,980.91084,913.56148,846.21212
-B0058,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,1723.92636,1937.92352,1393.69724,1315.48508,1249.222,984.16968,811.45116,638.73264
-B0059,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,1723.92636,1937.92352,1864.05648,1780.41292,1559.89808,1307.88112,1105.83304,904.87124
-B0060,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,1723.92636,1937.92352,2009.618,2023.73964,1995.49636,1621.81604,1511.01548,1399.12864
-B0061,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,2423.49068,2724.39024,1959.64912,1849.93484,1756.51476,1382.83444,1140.594,898.35356
-B0062,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,2423.49068,2724.39024,2616.84852,2496.27144,2183.4228,1802.13852,1511.01548,1220.97872
-B0063,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,2423.49068,2724.39024,2825.41428,2844.96732,2804.77496,2262.72124,2107.3832,1953.13144
-B0064,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,3123.055,3510.85696,2525.601,2384.3846,2263.80752,1782.58548,1468.65056,1157.97448
-B0065,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,3123.055,3510.85696,3369.64056,3211.04368,2806.94752,2296.39592,1915.11164,1537.0862
-B0066,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,3123.055,3510.85696,3641.21056,3666.195,3614.05356,2903.62644,2704.8372,2506.04796
-B0067,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,3823.7056,4297.32368,3091.55288,2918.83436,2771.10028,2182.33652,1797.7934,1418.68168
-B0068,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,3823.7056,4297.32368,4122.4326,3926.9022,3430.47224,2790.65332,2320.29408,1853.19368
-B0069,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,3823.7056,4297.32368,4457.00684,4487.42268,4423.33216,3544.53164,3301.20492,3058.96448
-B0070,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,26.07072,29.32956,20.63932,19.55304,0,14.12164,11.94908,9.77652
-B0071,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,26.07072,29.32956,28.24328,26.07072,0,20.63932,17.38048,15.20792
-B0072,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,26.07072,29.32956,29.32956,30.41584,0,24.98444,22.81188,20.63932
-B0073,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,43.4512,48.8826,34.76096,32.5884,0,24.98444,20.63932,16.2942
-B0074,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,43.4512,48.8826,46.71004,44.53748,0,32.5884,27.157,22.81188
-B0075,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,43.4512,48.8826,49.96888,51.05516,0,40.19236,38.0198,34.76096
-B0076,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,60.83168,68.43564,48.8826,46.71004,0,34.76096,28.24328,22.81188
-B0077,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,60.83168,68.43564,65.1768,61.91796,0,44.53748,38.0198,30.41584
-B0078,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,60.83168,68.43564,70.6082,70.6082,0,56.48656,53.22772,48.8826
-B0079,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,78.21216,87.98868,63.00424,59.7454,0,44.53748,36.93352,29.32956
-B0080,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,78.21216,87.98868,84.72984,80.38472,0,57.57284,47.79632,38.0198
-B0081,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,78.21216,87.98868,91.24752,91.24752,0,72.78076,67.34936,63.00424
-B0082,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,95.59264,107.54172,77.12588,72.78076,0,54.314,44.53748,35.84724
-B0083,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,95.59264,107.54172,103.1966,97.7652,0,69.52192,57.57284,46.71004
-B0084,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,95.59264,107.54172,111.88684,111.88684,0,89.07496,82.55728,76.0396
-B0085,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"NREL, 2023",,,,,,,,,,,15,15,15,15,,15,15,15
-B0086,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"NREL, 2023",,,,,,,,,,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
-B0087,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Lithium-ion,"Danish Energy Agency, 2024",,,,,15,,,,,,,,,,20,25,30,30
-B0088,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Lithium-ion,"Danish Energy Agency, 2024",,,,,0.25,,,,,,,,,,0.2,0.2,0.2,0.2
-B0089,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Lithium-ion,"Danish Energy Agency, 2024",AC efficiency,,,,0.91,,,,,0.91,,,,,,0.92,0.92,0.92
-B0090,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Lithium-ion,"Danish Energy Agency, 2024",DC efficiency,,,,0.95,,,,,0.95,,,,,,0.96,0.96,0.96
-B0091,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Vanadium Redox-flow,"Danish Energy Agency, 2024",,,,,20,,,,,,,,,,20,20,20,20
-B0092,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Vanadium Redox-flow,"Danish Energy Agency, 2024",,,,,1,,,,,,,,,,1,1,1,1
-B0093,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"Danish Energy Agency, 2024",DC efficiency,,,,0.78,,,,,0.78,,,,,,0.78,0.78,0.78
-B0094,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Sodium-sulphur,"Danish Energy Agency, 2024",,,,,15,,,,,,,,,,19,24,,24
-B0095,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Sodium-sulphur,"Danish Energy Agency, 2024",,,,,0.5,,,,,,,,,,0.5,0.5,,0.5
-B0096,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Sodium-sulphur,"Danish Energy Agency, 2024",DC efficiency,,,,0.83,,,,,0.83,,,,,,0.85,,0.85
-B0097,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1486.111555,,,,,,,
-B0098,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1320.2539,,,,,,
-B0099,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,29.31569603,,,,,,,
-B0100,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,47.5707232,,,,,,
-B0101,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2022",,,,,,,,,,,1,1,,,,,,
-B0102,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion,"IEA, 2020",,,,,,,,,,,,,,,10,,,
-B0103,Global,Global,,,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,1069.12516,,,,,,,,
-B0104,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,555.21092,,,,,,,,
-B0105,Europe,Finland,FI,FIN,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,2256.40471,,,,,,,,
-B0106,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,518.50276,,,,,,,,
-B0107,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,947.52938,,,,,,,,
-B0108,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh",,2,,,,,,,,,,20,,,,,
-B0109,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh, mean",In 2023 USD,,,,,,,,,,,69.5,,,,,
-B0110,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh, mean",In 2023 USD,2,,,,,,,,,,4.5,,,,,
-B0111,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh, mean",,2,,,,,,,,,,0.895,,,,,
-B0112,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh",,1,,,,,,,,,,20,,,,,
-B0113,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh, mean",In 2023 USD,,,,,,,,,,,41,,,,,
-B0114,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh, mean",In 2023 USD,1,,,,,,,,,,5.7,,,,,
-B0115,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh, mean",,1,,,,,,,,,,0.895,,,,,
-B0116,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh",,4,,,,,,,,,,20,,,,,
-B0117,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh, mean",In 2023 USD,,,,,,,,,,,132,,,,,
-B0118,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh, mean",In 2023 USD,4,,,,,,,,,,3.95,,,,,
-B0119,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh, mean",,4,,,,,,,,,,0.895,,,,,
-B0120,Global,Global,,,Lifetime,LIFETIME,Years,Lead-acid,"IRENA, 2017",Reference,,,,,9,,,,,,,,,,15,,
-B0121,Global,Global,,,Lifetime,LIFETIME,Years,Lead-acid,"IRENA, 2017",Best,,,,,15,,,,,,,,,,21,,
-B0122,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion LFP,"IRENA, 2017",Reference,,,,,12,,,,,,,,,,20,,
-B0123,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion LFP,"IRENA, 2017",Best,,,,,18,,,,,,,,,,31,,
-B0124,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion NMC,"IRENA, 2017",Reference,,,,,12,,,,,,,,,,20,,
-B0125,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion NMC,"IRENA, 2017",Best,,,,,18,,,,,,,,,,31,,
-B0126,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"IRENA, 2017",Reference,From 2016 USD to 2023 USD = 1.18063,,,,173.55261,,,,,,,,,,87.36662,,
-B0127,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"IRENA, 2017",Best,From 2016 USD to 2023 USD = 1.18063,,,,123.96615,,,,,,,,,,62.57339,,
-B0128,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion LFP,"IRENA, 2017",Reference,From 2016 USD to 2023 USD = 1.18063,,,,682.40414,,,,,,,,,,264.46112,,
-B0129,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion LFP,"IRENA, 2017",Best,From 2016 USD to 2023 USD = 1.18063,,,,236.126,,,,,,,,,,90.90851,,
-B0130,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"IRENA, 2017",Reference,From 2016 USD to 2023 USD = 1.18063,,,,495.8646,,,,,,,,,,197.16521,,
-B0131,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"IRENA, 2017",Best,From 2016 USD to 2023 USD = 1.18063,,,,236.126,,,,,,,,,,93.26977,,
-B0132,Global,Global,,,Efficiency,EFFICIENCY,%,Lead-acid,"IRENA, 2017",,,,,,0.81,,,,,,,,,,0.84,,
-B0133,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion LFP,"IRENA, 2017",,,,,,0.92,,,,,,,,,,0.94,,
-B0134,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion NMC,"IRENA, 2017",,,,,,0.95,,,,,,,,,,0.97,,
-B0135,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lead-acid,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,3.54189,,,,,,,,,,,,
-B0136,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion LFP,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,9.44504,,,,,,,,,,,,
-B0137,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion NMC,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,9.44504,,,,,,,,,,,,
-B0138,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2024",150MW/600MWh,In 2023 USD,4,,,,,,,,,,1744,,,,,
-B0139,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2024",150MW/600MWh,In 2023 USD,4,,,,,,,,,,40,,,,,
-B0140,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2024",150MW/600MWh,,4,,,,,,,,,,1.5,,,,,
-B0141,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"EIA, 2024",150MW/600MWh,,4,,,,,,,,,,20,,,,,
-B0142,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2020",50MW/200MWh,From 2019 USD to 2023 USD = 1.12020,4,,,,,,1555.9578,,,,,,,,,
-B0143,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2020",50MW/200MWh,From 2019 USD to 2023 USD = 1.12020,4,,,,,,27.78096,,,,,,,,,
-B0144,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2020",50MW/200MWh,,4,,,,,,0.833333333,,,,,,,,,
-B0145,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"EIA, 2020",50MW/200MWh,,4,,,,,,10,,,,,,,,,
-B0146,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2020",50MW/100MWh,From 2019 USD to 2023 USD = 1.12020,2,,,,,,946.569,,,,,,,,,
-B0147,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2020",50MW/100MWh,From 2019 USD to 2023 USD = 1.12020,2,,,,,,14.45058,,,,,,,,,
-B0148,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2020",50MW/100MWh,,2,,,,,,0.75,,,,,,,,,
-B0149,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"EIA, 2020",50MW/100MWh,,2,,,,,,10,,,,,,,,,
-B0150,Europe,European Union,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,742.80375,,,,,,,,
-B0151,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,2,,,,,,,8.8036,,,,,,,,
-B0152,Europe,European Union,,,Variable O&M,OPEX_V,USD/MWh,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,1.210990203,,,,,,,,
-B0153,Europe,European Union,,,Efficiency,EFFICIENCY,%,Lead-acid,"PNNL, 2020b",10MW/50MWh,,5,,,,,,,0.84,,,,,,,,
-B0154,Europe,European Union,,,Lifetime,LIFETIME,Years,Lead-acid,"PNNL, 2020b",10MW/50MWh,,5,,,,,,,12,,,,,,,,
-B0155,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,997.0077,,,,,,,,
-B0156,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lead-acid,"PNNL, 2020b",100MW/500MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,940.88475,,,,,,,,
-B0157,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Sodium-sulphur,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,4159.49338,3626,,,,,,3067.42562,,,
-B0158,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Sodium-sulphur,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,11.4713,,,,,,,8,,,
-B0159,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Sodium-sulphur,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.344139,,,,,,,0.0344139,,,
-B0160,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Sodium-sulphur,"DOE, 2019",,,,,,,,0.75,,,,,,,0.75,,,
-B0161,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Sodium-sulphur,"DOE, 2019",,,,,,,,13.5,,,,,,,13.5,,,
-B0162,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,2152.01588,,,,,,,1658.74998,,,
-B0163,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,11.4713,,,,,,,8,,,
-B0164,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lithium-ion,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.344139,,,,,,,0.0344139,,,
-B0165,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"DOE, 2019",,,,,,,,86,,,,,,,0.86,,,
-B0166,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"DOE, 2019",,,,,,,,10,,,,,,,10,,,
-B0167,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lead-acid,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,2516.80322,,,,,,,2126.77902,,,
-B0168,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lead-acid,"DOE, 2019",,,,,,,,10,,,,,,,8,,,
-B0169,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lead-acid,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.0344139,,,,,,,0.0344139,,,
-B0170,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lead-acid,"DOE, 2019",,,,,,,,72,,,,,,,0.72,,,
-B0171,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lead-acid,"DOE, 2019",,,,,,,,2.6,,,,,,,3,,,
-B0172,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Vanadium Redox-flow,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,3934.6559,,,,,,,2980.24374,,,
-B0173,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Vanadium Redox-flow,"DOE, 2019",,,,,,,,10,,,,,,,8,,,
-B0174,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Vanadium Redox-flow,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.0344139,,,,,,,0.0344139,,,
-B0175,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"DOE, 2019",,,,,,,,67.5,,,,,,,0.7,,,
-B0176,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Vanadium Redox-flow,"DOE, 2019",,,,,,,,15,,,,,,,15,,,
-B0177,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion,"Kebede, 2021",,,,,,,,,,,0.8737,,,,,,,
-B0178,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion,"Kebede, 2021",,,,,,,,,,,12.67,,,,,,,
-B0179,Global,Global,,,Efficiency,EFFICIENCY,%,Lead-acid,"Kebede, 2021",,,,,,,,,,,0.7636,,,,,,,
-B0180,Global,Global,,,Lifetime,LIFETIME,Years,Lead-acid,"Kebede, 2021",,,,,,,,,,,8.75,,,,,,,
-B0181,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Sodium-sulphur,"Sandia, 2019",100MW/6Hr,From 2019 USD to 2023 USD = 1.12020,6,,,,,,376.3,421.53126,,,,,,,,
-B0182,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Sodium-sulphur,"Sandia, 2019",100MW/6Hr,,6,,,,,,15,,,,,,,,,
-B0183,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Sodium-sulphur,"Sandia, 2019",100MW/6Hr,,6,,,,,,0.75,,,,,,,,,
-B0184,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Sandia, 2019",100MW/4Hr,From 2019 USD to 2023 USD = 1.12020,4,,,,,,417,467.1234,,,,,,,,
-B0185,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Sandia, 2019",100MW/6Hr,From 2019 USD to 2023 USD = 1.12020,6,,,,,,376,421.1952,,,,,,,,
-B0186,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Sandia, 2019",100MW/8Hr,From 2019 USD to 2023 USD = 1.12020,8,,,,,,309.7,346.92594,,,,,,,,
-B0187,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Vanadium Redox-flow,"Sandia, 2019",100MW,,,,,,,,20,,,,,,,,,
-B0188,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"Sandia, 2019",100MW,,,,,,,,0.75,,,,,,,,,
-B0189,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/2Hr,From 2019 USD to 2023 USD = 1.12020,2,,,,,,425.1,476.19702,,,,,,,,
-B0190,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/3Hr,From 2019 USD to 2023 USD = 1.12020,3,,,,,,408.4,457.48968,,,,,,,,
-B0191,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/4Hr,From 2019 USD to 2023 USD = 1.12020,4,,,,,,392,439.1184,,,,,,,,
-B0192,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/5Hr,From 2019 USD to 2023 USD = 1.12020,5,,,,,,384.7,430.94094,,,,,,,,
-B0193,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/6Hr,From 2019 USD to 2023 USD = 1.12020,6,,,,,,381.4,427.24428,,,,,,,,
-B0194,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/7Hr,From 2019 USD to 2023 USD = 1.12020,7,,,,,,379,424.5558,,,,,,,,
-B0195,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/8Hr,From 2019 USD to 2023 USD = 1.12020,8,,,,,,377.2,422.53944,,,,,,,,
-B0196,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Sandia, 2019",100MW,,,,,,,,12.5,,,,,,,,,
-B0197,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Sandia, 2019",100MW,,,,,,,,0.825,,,,,,,,,
-B0198,Global,Global,,,Efficiency,EFFICIENCY,%,Sodium-sulphur,"IRENA, 2017",,,,,,0.81,,,,,,,,,,,,
-B0199,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Sodium-sulphur,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,514.75468,,,,,,,,,,,,
-B0200,Global,Global,,,Construction Time,BUILDTIME,Years,Sodium-sulphur,"IRENA, 2017",,,,,,0.5,,,,,,,,,,,,
-B0201,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Sodium-sulphur,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,9.44504,,,,,,,,,,,,
-B0202,Global,Global,,,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"IRENA, 2017",,,,,,0.72,,,,,,,,,,,,
-B0203,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,316.40884,,,,,,,,,,,,
-B0204,Global,Global,,,Construction Time,BUILDTIME,Years,Vanadium Redox-flow,"IRENA, 2017",,,,,,1,,,,,,,,,,,,
-B0205,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Vanadium Redox-flow,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,12.98693,,,,,,,,,,,,
-B0206,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",Utility-scale 4h duration central,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,313.6295357,285.0177184,257.5063556,232.1959019,,133.1549959,86.93590639,72.62999774
-B0207,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",Utility-scale 4h duration high,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,313.6295357,301.5245361,288.3190819,275.1136278,,195.880903,118.8490872,91.33772443
-B0208,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",Utility-scale 4h duration low,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,313.6295357,256.4059011,213.4881752,182.6754489,,102.3422695,72.62999774,61.62545263
-B0209,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Schmidt, 2023",Utility-scale 4h duration central,From 2020 USD to 2023 USD = 1.10045,4,,,,,,878.1627,,507.3095297,444.5836225,397.2640786,358.7481707,605.2499812,229.9949928,169.4699947,148.561359
-B0210,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Schmidt, 2023",Utility-scale 4h duration high,From 2020 USD to 2023 USD = 1.10045,4,,,,,,878.1627,,614.0536173,560.1313462,519.4145293,485.3004395,695.4872511,349.9445346,243.200447,202.4836301
-B0211,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Schmidt, 2023",Utility-scale 4h duration low,From 2020 USD to 2023 USD = 1.10045,4,,,,,,878.1627,,401.6658966,337.839535,291.6204455,257.5063556,506.2090752,165.0681767,127.6527233,112.2463601
-B0212,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Sodium-sulphur,"Schmidt, 2023",Utility-scale 4h duration,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,673.4781609,,,,,
-B0213,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"Schmidt, 2023",Utility-scale 4h duration,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,434.6795319,,,,,
-B0214,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion,"Schmidt, 2023",,,,,,,,,,,,,0.86,,,,,
-B0215,Global,Global,,,Efficiency,EFFICIENCY,%,Sodium-sulphur,"Schmidt, 2023",,,,,,,,,,,,,0.75,,,,,
-B0216,Global,Global,,,Efficiency,EFFICIENCY,%,Lead-acid,"Schmidt, 2023",,,,,,,,,,,,,0.72,,,,,
-B0217,Global,Global,,,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"Schmidt, 2023",,,,,,,,,,,,,0.68,,,,,
-B0218,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,5.502272556,,,,,
-B0219,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Sodium-sulphur,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,5.502272556,,,,,
-B0220,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lead-acid,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,5.502272556,,,,,
-B0221,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Vanadium Redox-flow,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,11.00454511,,,,,
-B0222,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,0.440181804,,,,,
-B0223,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Sodium-sulphur,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,0.440181804,,,,,
-B0224,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Lead-acid,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,0.440181804,,,,,
-B0225,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Vanadium Redox-flow,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,2.200909022,,,,,
-B0226,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,304.8258996,,,,,
-B0227,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,452.2868041,,,,,
-B0228,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,544.7249831,,,,,
-B0229,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,562.3322552,,,,,
-B0230,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,573.3368004,,,,,
-B0231,Global,Global,,,Construction Time,BUILDTIME,Years,Lithium-ion,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
-B0232,Global,Global,,,Construction Time,BUILDTIME,Years,Sodium-sulphur,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
-B0233,Global,Global,,,Construction Time,BUILDTIME,Years,Lead-acid,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
-B0234,Global,Global,,,Construction Time,BUILDTIME,Years,Vanadium Redox-flow,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
+# GNESTE Database | Battery Storage | 2024.04.25 | CC-BY-4.0 | Citation: Luke Hatton; Nathan Johnson; Lara Dixon; Bosi Mosongo; Savanha De Kock; Andrew Marquard; Mark Howells; Iain Staffell. The Global and National Energy Systems Techno-Economic (GNESTE) Database: Cost and performance data for electricity generation and storage technologies. 2024. Submitted to Data in Brief.
+Technology,ID,Continent,Country,ISO2,ISO3,Variable,Code,Unit,Category,Source,Notes,Currency,Energy/Power Ratio,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2030,2040,2050
+Battery,B0001,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"BNEF, 2019",For a 20MW/80MWh System,From 2018 USD to 2023 USD = 1.14713,4,,,,630.0593374,387.1412493,366.5419921,345.9332813,324.2468673,301.4732966,276.5348658,253.7612951,232.0654275,185.2987798,,
+Battery,B0002,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Deutsche Bank, 2016",Stationary Energy System average,From 2016 USD to 2023 USD = 1.18063,,,1494.680479,1373.075353,1200.703039,1114.516882,1027.150092,974.0216393,,,,,,,,
+Battery,B0003,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"NREL, 2021",High Cost projections for 4 hour system,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,379.65525,366.44985,355.44535,346.64175,335.63725,324.63275,272.9116,272.9116,272.9116
+Battery,B0004,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"NREL, 2021",Medium Cost projections for 4 hour system,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,379.65525,356.5458,334.5368,311.42735,289.41835,266.3089,217.8891,191.4783,163.96705
+Battery,B0005,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"NREL, 2021",Low Cost projections for 4 hour system,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,379.65525,347.7422,319.1305,290.5188,261.9071,234.39585,162.8666,126.55175,97.94005
+Battery,B0006,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1973.10685,,,,,,1393.1697,,
+Battery,B0007,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1669.38265,,,,,,1606.657,,
+Battery,B0008,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2244.918,,,,,,1215.99725,,
+Battery,B0009,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1808.03935,,,,,,1272.1202,,
+Battery,B0010,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1528.52505,,,,,,1109.2536,,
+Battery,B0011,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2055.6406,,,,,,1468.0003,,
+Battery,B0012,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1695.79345,,,,,,1189.58645,,
+Battery,B0013,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1432.7859,,,,,,1038.8248,,
+Battery,B0014,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1927.9884,,,,,,1374.46205,,
+Battery,B0015,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.84198,3.9726245,,
+Battery,B0016,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.357782,3.587467,,
+Battery,B0017,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,5.326178,4.4018,,
+Battery,B0018,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.4348135,3.631485,,
+Battery,B0019,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,3.9946335,3.279341,,
+Battery,B0020,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.8749935,4.0386515,,
+Battery,B0021,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.1707055,3.411395,,
+Battery,B0022,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,3.7525345,3.08126,,
+Battery,B0023,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion LFP,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.577872,3.785548,,
+Battery,B0024,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lithium-ion LFP,"PNNL, 2020a","1 MW / 4 hr, 10 MW/4 hr and 100 MW/4hr",From 2020 USD to 2023 USD = 1.10045,4,,,,,,,0.564,,,,,,0.564,,
+Battery,B0025,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2022.6271,,,,,,1198.39005,,
+Battery,B0026,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1691.39165,,,,,,1015.71535,,
+Battery,B0027,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2335.1549,,,,,,1363.45755,,
+Battery,B0028,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1854.25825,,,,,,1324.9418,,
+Battery,B0029,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1549.4336,,,,,,1134.56395,,
+Battery,B0030,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2142.57615,,,,,,1502.11425,,
+Battery,B0031,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1739.81145,,,,,,1241.3076,,
+Battery,B0032,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,1452.594,,,,,,1061.93425,,
+Battery,B0033,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,2010.52215,,,,,,1407.47555,,
+Battery,B0034,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,505.10655,,,,,,299.3224,,
+Battery,B0035,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,422.5728,,,,,,254.20395,,
+Battery,B0036,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,584.33895,,,,,,341.1395,,
+Battery,B0037,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,463.28945,,,,,,331.23545,,
+Battery,B0038,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,387.3584,,,,,,283.9161,,
+Battery,B0039,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,535.91915,,,,,,375.25345,,
+Battery,B0040,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,434.67775,,,,,,310.3269,,
+Battery,B0041,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,363.1485,,,,,,265.20845,,
+Battery,B0042,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,502.90565,,,,,,352.144,,
+Battery,B0043,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",1 MW/ 4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.9630295,4.071665,,
+Battery,B0044,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",1 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.467827,3.675503,,
+Battery,B0045,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",1 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,5.458232,4.511845,,
+Battery,B0046,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",10 MW/ 4hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.5448585,3.7305255,,
+Battery,B0047,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",10 MW/ 4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.093674,3.367377,,
+Battery,B0048,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",10 MW/ 4 hr Max,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,5.0070475,4.137692,,
+Battery,B0049,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",100 MW/4 hr Average,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.2807505,3.5104355,,
+Battery,B0050,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",100 MW/4 hr Minimum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,3.851575,3.169296,,
+Battery,B0051,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"PNNL, 2020a",100 MW/4 hr Maximum,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,,,4.6989215,3.895593,,
+Battery,B0052,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lithium-ion,"PNNL, 2020a","1 MW / 4 hr, 10 MW/4 hr and 100 MW/4hr",From 2020 USD to 2023 USD = 1.10045,4,,,,,,,0.564,,,,,,0.564,,
+Battery,B0053,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion LFP,"PNNL, 2020a",,,,,,,,,,0.86,,,,,,0.88,,
+Battery,B0054,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion NMC,"PNNL, 2020a",,,,,,,,,,0.86,,,,,,0.88,,
+Battery,B0055,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,1024.36204,1151.4568,827.74536,782.1216,741.92924,584.41864,482.30832,379.11172
+Battery,B0056,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,1024.36204,1151.4568,1110.17816,1064.5544,936.37336,813.62372,701.73688,587.67748
+Battery,B0057,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,1024.36204,1151.4568,1193.82172,1202.51196,1186.21776,980.91084,913.56148,846.21212
+Battery,B0058,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,1723.92636,1937.92352,1393.69724,1315.48508,1249.222,984.16968,811.45116,638.73264
+Battery,B0059,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,1723.92636,1937.92352,1864.05648,1780.41292,1559.89808,1307.88112,1105.83304,904.87124
+Battery,B0060,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,1723.92636,1937.92352,2009.618,2023.73964,1995.49636,1621.81604,1511.01548,1399.12864
+Battery,B0061,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,2423.49068,2724.39024,1959.64912,1849.93484,1756.51476,1382.83444,1140.594,898.35356
+Battery,B0062,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,2423.49068,2724.39024,2616.84852,2496.27144,2183.4228,1802.13852,1511.01548,1220.97872
+Battery,B0063,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,2423.49068,2724.39024,2825.41428,2844.96732,2804.77496,2262.72124,2107.3832,1953.13144
+Battery,B0064,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,3123.055,3510.85696,2525.601,2384.3846,2263.80752,1782.58548,1468.65056,1157.97448
+Battery,B0065,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,3123.055,3510.85696,3369.64056,3211.04368,2806.94752,2296.39592,1915.11164,1537.0862
+Battery,B0066,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,3123.055,3510.85696,3641.21056,3666.195,3614.05356,2903.62644,2704.8372,2506.04796
+Battery,B0067,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,3823.7056,4297.32368,3091.55288,2918.83436,2771.10028,2182.33652,1797.7934,1418.68168
+Battery,B0068,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,3823.7056,4297.32368,4122.4326,3926.9022,3430.47224,2790.65332,2320.29408,1853.19368
+Battery,B0069,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,3823.7056,4297.32368,4457.00684,4487.42268,4423.33216,3544.53164,3301.20492,3058.96448
+Battery,B0070,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,26.07072,29.32956,20.63932,19.55304,0,14.12164,11.94908,9.77652
+Battery,B0071,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,26.07072,29.32956,28.24328,26.07072,0,20.63932,17.38048,15.20792
+Battery,B0072,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 2Hr - Utility-Scale Battery Storage - 2Hr,From 2021 USD to 2023 USD = 1.08628,2,,,,,,,,26.07072,29.32956,29.32956,30.41584,0,24.98444,22.81188,20.63932
+Battery,B0073,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,43.4512,48.8826,34.76096,32.5884,0,24.98444,20.63932,16.2942
+Battery,B0074,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,43.4512,48.8826,46.71004,44.53748,0,32.5884,27.157,22.81188
+Battery,B0075,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 4Hr - Utility-Scale Battery Storage - 4Hr,From 2021 USD to 2023 USD = 1.08628,4,,,,,,,,43.4512,48.8826,49.96888,51.05516,0,40.19236,38.0198,34.76096
+Battery,B0076,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,60.83168,68.43564,48.8826,46.71004,0,34.76096,28.24328,22.81188
+Battery,B0077,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,60.83168,68.43564,65.1768,61.91796,0,44.53748,38.0198,30.41584
+Battery,B0078,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 6Hr - Utility-Scale Battery Storage - 6Hr,From 2021 USD to 2023 USD = 1.08628,6,,,,,,,,60.83168,68.43564,70.6082,70.6082,0,56.48656,53.22772,48.8826
+Battery,B0079,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,78.21216,87.98868,63.00424,59.7454,0,44.53748,36.93352,29.32956
+Battery,B0080,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,78.21216,87.98868,84.72984,80.38472,0,57.57284,47.79632,38.0198
+Battery,B0081,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 8Hr - Utility-Scale Battery Storage - 8Hr,From 2021 USD to 2023 USD = 1.08628,8,,,,,,,,78.21216,87.98868,91.24752,91.24752,0,72.78076,67.34936,63.00424
+Battery,B0082,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,95.59264,107.54172,77.12588,72.78076,0,54.314,44.53748,35.84724
+Battery,B0083,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,95.59264,107.54172,103.1966,97.7652,0,69.52192,57.57284,46.71004
+Battery,B0084,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"NREL, 2023",Utility-Scale Battery Storage - 10Hr - Utility-Scale Battery Storage - 10Hr,From 2021 USD to 2023 USD = 1.08628,10,,,,,,,,95.59264,107.54172,111.88684,111.88684,0,89.07496,82.55728,76.0396
+Battery,B0085,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"NREL, 2023",,,,,,,,,,,15,15,15,15,,15,15,15
+Battery,B0086,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"NREL, 2023",,,,,,,,,,,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.85
+Battery,B0087,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Lithium-ion,"Danish Energy Agency, 2024",,,,,15,,,,,,,,,,20,25,30,30
+Battery,B0088,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Lithium-ion,"Danish Energy Agency, 2024",,,,,0.25,,,,,,,,,,0.2,0.2,0.2,0.2
+Battery,B0089,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Lithium-ion,"Danish Energy Agency, 2024",AC efficiency,,,,0.91,,,,,0.91,,,,,,0.92,0.92,0.92
+Battery,B0090,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Lithium-ion,"Danish Energy Agency, 2024",DC efficiency,,,,0.95,,,,,0.95,,,,,,0.96,0.96,0.96
+Battery,B0091,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Vanadium Redox-flow,"Danish Energy Agency, 2024",,,,,20,,,,,,,,,,20,20,20,20
+Battery,B0092,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Vanadium Redox-flow,"Danish Energy Agency, 2024",,,,,1,,,,,,,,,,1,1,1,1
+Battery,B0093,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"Danish Energy Agency, 2024",DC efficiency,,,,0.78,,,,,0.78,,,,,,0.78,0.78,0.78
+Battery,B0094,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Sodium-sulphur,"Danish Energy Agency, 2024",,,,,15,,,,,,,,,,19,24,,24
+Battery,B0095,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Sodium-sulphur,"Danish Energy Agency, 2024",,,,,0.5,,,,,,,,,,0.5,0.5,,0.5
+Battery,B0096,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Sodium-sulphur,"Danish Energy Agency, 2024",DC efficiency,,,,0.83,,,,,0.83,,,,,,0.85,,0.85
+Battery,B0097,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1486.111555,,,,,,,
+Battery,B0098,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1320.2539,,,,,,
+Battery,B0099,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2022",,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,29.31569603,,,,,,,
+Battery,B0100,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2023",,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,47.5707232,,,,,,
+Battery,B0101,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2022",,,,,,,,,,,1,1,,,,,,
+Battery,B0102,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion,"IEA, 2020",,,,,,,,,,,,,,,10,,,
+Battery,B0103,Global,Global,,,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,1069.12516,,,,,,,,
+Battery,B0104,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,555.21092,,,,,,,,
+Battery,B0105,Europe,Finland,FI,FIN,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,2256.40471,,,,,,,,
+Battery,B0106,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,518.50276,,,,,,,,
+Battery,B0107,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Lithium-ion,"IEA, 2020",,From 2018 USD to 2023 USD = 1.14713,,,,,,,,947.52938,,,,,,,,
+Battery,B0108,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh",,2,,,,,,,,,,20,,,,,
+Battery,B0109,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh, mean",In 2023 USD,,,,,,,,,,,69.5,,,,,
+Battery,B0110,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh, mean",In 2023 USD,2,,,,,,,,,,4.5,,,,,
+Battery,B0111,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/200MWh, mean",,2,,,,,,,,,,0.895,,,,,
+Battery,B0112,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh",,1,,,,,,,,,,20,,,,,
+Battery,B0113,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh, mean",In 2023 USD,,,,,,,,,,,41,,,,,
+Battery,B0114,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh, mean",In 2023 USD,1,,,,,,,,,,5.7,,,,,
+Battery,B0115,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/100MWh, mean",,1,,,,,,,,,,0.895,,,,,
+Battery,B0116,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh",,4,,,,,,,,,,20,,,,,
+Battery,B0117,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh, mean",In 2023 USD,,,,,,,,,,,132,,,,,
+Battery,B0118,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh, mean",In 2023 USD,4,,,,,,,,,,3.95,,,,,
+Battery,B0119,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Lazard, 2023","Lithium Iron Phosphate, Lithium Nickel Manganese and Cobalt Oxide, 100MW/400MWh, mean",,4,,,,,,,,,,0.895,,,,,
+Battery,B0120,Global,Global,,,Lifetime,LIFETIME,Years,Lead-acid,"IRENA, 2017",Reference,,,,,9,,,,,,,,,,15,,
+Battery,B0121,Global,Global,,,Lifetime,LIFETIME,Years,Lead-acid,"IRENA, 2017",Best,,,,,15,,,,,,,,,,21,,
+Battery,B0122,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion LFP,"IRENA, 2017",Reference,,,,,12,,,,,,,,,,20,,
+Battery,B0123,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion LFP,"IRENA, 2017",Best,,,,,18,,,,,,,,,,31,,
+Battery,B0124,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion NMC,"IRENA, 2017",Reference,,,,,12,,,,,,,,,,20,,
+Battery,B0125,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion NMC,"IRENA, 2017",Best,,,,,18,,,,,,,,,,31,,
+Battery,B0126,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"IRENA, 2017",Reference,From 2016 USD to 2023 USD = 1.18063,,,,173.55261,,,,,,,,,,87.36662,,
+Battery,B0127,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"IRENA, 2017",Best,From 2016 USD to 2023 USD = 1.18063,,,,123.96615,,,,,,,,,,62.57339,,
+Battery,B0128,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion LFP,"IRENA, 2017",Reference,From 2016 USD to 2023 USD = 1.18063,,,,682.40414,,,,,,,,,,264.46112,,
+Battery,B0129,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion LFP,"IRENA, 2017",Best,From 2016 USD to 2023 USD = 1.18063,,,,236.126,,,,,,,,,,90.90851,,
+Battery,B0130,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"IRENA, 2017",Reference,From 2016 USD to 2023 USD = 1.18063,,,,495.8646,,,,,,,,,,197.16521,,
+Battery,B0131,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion NMC,"IRENA, 2017",Best,From 2016 USD to 2023 USD = 1.18063,,,,236.126,,,,,,,,,,93.26977,,
+Battery,B0132,Global,Global,,,Efficiency,EFFICIENCY,%,Lead-acid,"IRENA, 2017",,,,,,0.81,,,,,,,,,,0.84,,
+Battery,B0133,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion LFP,"IRENA, 2017",,,,,,0.92,,,,,,,,,,0.94,,
+Battery,B0134,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion NMC,"IRENA, 2017",,,,,,0.95,,,,,,,,,,0.97,,
+Battery,B0135,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lead-acid,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,3.54189,,,,,,,,,,,,
+Battery,B0136,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion LFP,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,9.44504,,,,,,,,,,,,
+Battery,B0137,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion NMC,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,9.44504,,,,,,,,,,,,
+Battery,B0138,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2024",150MW/600MWh,In 2023 USD,4,,,,,,,,,,1744,,,,,
+Battery,B0139,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2024",150MW/600MWh,In 2023 USD,4,,,,,,,,,,40,,,,,
+Battery,B0140,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2024",150MW/600MWh,,4,,,,,,,,,,1.5,,,,,
+Battery,B0141,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"EIA, 2024",150MW/600MWh,,4,,,,,,,,,,20,,,,,
+Battery,B0142,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2020",50MW/200MWh,From 2019 USD to 2023 USD = 1.12020,4,,,,,,1555.9578,,,,,,,,,
+Battery,B0143,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2020",50MW/200MWh,From 2019 USD to 2023 USD = 1.12020,4,,,,,,27.78096,,,,,,,,,
+Battery,B0144,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2020",50MW/200MWh,,4,,,,,,0.833333333,,,,,,,,,
+Battery,B0145,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"EIA, 2020",50MW/200MWh,,4,,,,,,10,,,,,,,,,
+Battery,B0146,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"EIA, 2020",50MW/100MWh,From 2019 USD to 2023 USD = 1.12020,2,,,,,,946.569,,,,,,,,,
+Battery,B0147,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"EIA, 2020",50MW/100MWh,From 2019 USD to 2023 USD = 1.12020,2,,,,,,14.45058,,,,,,,,,
+Battery,B0148,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Lithium-ion,"EIA, 2020",50MW/100MWh,,2,,,,,,0.75,,,,,,,,,
+Battery,B0149,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"EIA, 2020",50MW/100MWh,,2,,,,,,10,,,,,,,,,
+Battery,B0150,Europe,European Union,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,742.80375,,,,,,,,
+Battery,B0151,Europe,European Union,,,Fixed O&M,OPEX_F,USD/kW/yr,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,2,,,,,,,8.8036,,,,,,,,
+Battery,B0152,Europe,European Union,,,Variable O&M,OPEX_V,USD/MWh,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,1.210990203,,,,,,,,
+Battery,B0153,Europe,European Union,,,Efficiency,EFFICIENCY,%,Lead-acid,"PNNL, 2020b",10MW/50MWh,,5,,,,,,,0.84,,,,,,,,
+Battery,B0154,Europe,European Union,,,Lifetime,LIFETIME,Years,Lead-acid,"PNNL, 2020b",10MW/50MWh,,5,,,,,,,12,,,,,,,,
+Battery,B0155,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lead-acid,"PNNL, 2020b",10MW/50MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,997.0077,,,,,,,,
+Battery,B0156,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lead-acid,"PNNL, 2020b",100MW/500MWh,From 2020 USD to 2023 USD = 1.10045,5,,,,,,,940.88475,,,,,,,,
+Battery,B0157,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Sodium-sulphur,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,4159.49338,3626,,,,,,3067.42562,,,
+Battery,B0158,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Sodium-sulphur,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,11.4713,,,,,,,8,,,
+Battery,B0159,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Sodium-sulphur,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.344139,,,,,,,0.0344139,,,
+Battery,B0160,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Sodium-sulphur,"DOE, 2019",,,,,,,,0.75,,,,,,,0.75,,,
+Battery,B0161,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Sodium-sulphur,"DOE, 2019",,,,,,,,13.5,,,,,,,13.5,,,
+Battery,B0162,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lithium-ion,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,2152.01588,,,,,,,1658.74998,,,
+Battery,B0163,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lithium-ion,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,11.4713,,,,,,,8,,,
+Battery,B0164,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lithium-ion,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.344139,,,,,,,0.0344139,,,
+Battery,B0165,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"DOE, 2019",,,,,,,,86,,,,,,,0.86,,,
+Battery,B0166,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"DOE, 2019",,,,,,,,10,,,,,,,10,,,
+Battery,B0167,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Lead-acid,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,2516.80322,,,,,,,2126.77902,,,
+Battery,B0168,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Lead-acid,"DOE, 2019",,,,,,,,10,,,,,,,8,,,
+Battery,B0169,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Lead-acid,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.0344139,,,,,,,0.0344139,,,
+Battery,B0170,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lead-acid,"DOE, 2019",,,,,,,,72,,,,,,,0.72,,,
+Battery,B0171,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lead-acid,"DOE, 2019",,,,,,,,2.6,,,,,,,3,,,
+Battery,B0172,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Vanadium Redox-flow,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,3934.6559,,,,,,,2980.24374,,,
+Battery,B0173,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Vanadium Redox-flow,"DOE, 2019",,,,,,,,10,,,,,,,8,,,
+Battery,B0174,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/MWh,Vanadium Redox-flow,"DOE, 2019",,From 2018 USD to 2023 USD = 1.14713,,,,,,0.0344139,,,,,,,0.0344139,,,
+Battery,B0175,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"DOE, 2019",,,,,,,,67.5,,,,,,,0.7,,,
+Battery,B0176,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Vanadium Redox-flow,"DOE, 2019",,,,,,,,15,,,,,,,15,,,
+Battery,B0177,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion,"Kebede, 2021",,,,,,,,,,,0.8737,,,,,,,
+Battery,B0178,Global,Global,,,Lifetime,LIFETIME,Years,Lithium-ion,"Kebede, 2021",,,,,,,,,,,12.67,,,,,,,
+Battery,B0179,Global,Global,,,Efficiency,EFFICIENCY,%,Lead-acid,"Kebede, 2021",,,,,,,,,,,0.7636,,,,,,,
+Battery,B0180,Global,Global,,,Lifetime,LIFETIME,Years,Lead-acid,"Kebede, 2021",,,,,,,,,,,8.75,,,,,,,
+Battery,B0181,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Sodium-sulphur,"Sandia, 2019",100MW/6Hr,From 2019 USD to 2023 USD = 1.12020,6,,,,,,376.3,421.53126,,,,,,,,
+Battery,B0182,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Sodium-sulphur,"Sandia, 2019",100MW/6Hr,,6,,,,,,15,,,,,,,,,
+Battery,B0183,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Sodium-sulphur,"Sandia, 2019",100MW/6Hr,,6,,,,,,0.75,,,,,,,,,
+Battery,B0184,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Sandia, 2019",100MW/4Hr,From 2019 USD to 2023 USD = 1.12020,4,,,,,,417,467.1234,,,,,,,,
+Battery,B0185,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Sandia, 2019",100MW/6Hr,From 2019 USD to 2023 USD = 1.12020,6,,,,,,376,421.1952,,,,,,,,
+Battery,B0186,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Sandia, 2019",100MW/8Hr,From 2019 USD to 2023 USD = 1.12020,8,,,,,,309.7,346.92594,,,,,,,,
+Battery,B0187,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Vanadium Redox-flow,"Sandia, 2019",100MW,,,,,,,,20,,,,,,,,,
+Battery,B0188,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"Sandia, 2019",100MW,,,,,,,,0.75,,,,,,,,,
+Battery,B0189,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/2Hr,From 2019 USD to 2023 USD = 1.12020,2,,,,,,425.1,476.19702,,,,,,,,
+Battery,B0190,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/3Hr,From 2019 USD to 2023 USD = 1.12020,3,,,,,,408.4,457.48968,,,,,,,,
+Battery,B0191,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/4Hr,From 2019 USD to 2023 USD = 1.12020,4,,,,,,392,439.1184,,,,,,,,
+Battery,B0192,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/5Hr,From 2019 USD to 2023 USD = 1.12020,5,,,,,,384.7,430.94094,,,,,,,,
+Battery,B0193,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/6Hr,From 2019 USD to 2023 USD = 1.12020,6,,,,,,381.4,427.24428,,,,,,,,
+Battery,B0194,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/7Hr,From 2019 USD to 2023 USD = 1.12020,7,,,,,,379,424.5558,,,,,,,,
+Battery,B0195,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Sandia, 2019",100MW/8Hr,From 2019 USD to 2023 USD = 1.12020,8,,,,,,377.2,422.53944,,,,,,,,
+Battery,B0196,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Lithium-ion,"Sandia, 2019",100MW,,,,,,,,12.5,,,,,,,,,
+Battery,B0197,North America,United States of America,US,USA,Efficiency,EFFICIENCY,%,Lithium-ion,"Sandia, 2019",100MW,,,,,,,,0.825,,,,,,,,,
+Battery,B0198,Global,Global,,,Efficiency,EFFICIENCY,%,Sodium-sulphur,"IRENA, 2017",,,,,,0.81,,,,,,,,,,,,
+Battery,B0199,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Sodium-sulphur,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,514.75468,,,,,,,,,,,,
+Battery,B0200,Global,Global,,,Construction Time,BUILDTIME,Years,Sodium-sulphur,"IRENA, 2017",,,,,,0.5,,,,,,,,,,,,
+Battery,B0201,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Sodium-sulphur,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,9.44504,,,,,,,,,,,,
+Battery,B0202,Global,Global,,,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"IRENA, 2017",,,,,,0.72,,,,,,,,,,,,
+Battery,B0203,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,316.40884,,,,,,,,,,,,
+Battery,B0204,Global,Global,,,Construction Time,BUILDTIME,Years,Vanadium Redox-flow,"IRENA, 2017",,,,,,1,,,,,,,,,,,,
+Battery,B0205,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Vanadium Redox-flow,"IRENA, 2017",,From 2016 USD to 2023 USD = 1.18063,,,,12.98693,,,,,,,,,,,,
+Battery,B0206,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",Utility-scale 4h duration central,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,313.6295357,285.0177184,257.5063556,232.1959019,,133.1549959,86.93590639,72.62999774
+Battery,B0207,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",Utility-scale 4h duration high,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,313.6295357,301.5245361,288.3190819,275.1136278,,195.880903,118.8490872,91.33772443
+Battery,B0208,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",Utility-scale 4h duration low,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,313.6295357,256.4059011,213.4881752,182.6754489,,102.3422695,72.62999774,61.62545263
+Battery,B0209,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Schmidt, 2023",Utility-scale 4h duration central,From 2020 USD to 2023 USD = 1.10045,4,,,,,,878.1627,,507.3095297,444.5836225,397.2640786,358.7481707,605.2499812,229.9949928,169.4699947,148.561359
+Battery,B0210,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Schmidt, 2023",Utility-scale 4h duration high,From 2020 USD to 2023 USD = 1.10045,4,,,,,,878.1627,,614.0536173,560.1313462,519.4145293,485.3004395,695.4872511,349.9445346,243.200447,202.4836301
+Battery,B0211,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Vanadium Redox-flow,"Schmidt, 2023",Utility-scale 4h duration low,From 2020 USD to 2023 USD = 1.10045,4,,,,,,878.1627,,401.6658966,337.839535,291.6204455,257.5063556,506.2090752,165.0681767,127.6527233,112.2463601
+Battery,B0212,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Sodium-sulphur,"Schmidt, 2023",Utility-scale 4h duration,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,673.4781609,,,,,
+Battery,B0213,Global,Global,,,Capital Cost,CAPEX,USD/kWh,Lead-acid,"Schmidt, 2023",Utility-scale 4h duration,From 2020 USD to 2023 USD = 1.10045,4,,,,,,,,,,434.6795319,,,,,
+Battery,B0214,Global,Global,,,Efficiency,EFFICIENCY,%,Lithium-ion,"Schmidt, 2023",,,,,,,,,,,,,0.86,,,,,
+Battery,B0215,Global,Global,,,Efficiency,EFFICIENCY,%,Sodium-sulphur,"Schmidt, 2023",,,,,,,,,,,,,0.75,,,,,
+Battery,B0216,Global,Global,,,Efficiency,EFFICIENCY,%,Lead-acid,"Schmidt, 2023",,,,,,,,,,,,,0.72,,,,,
+Battery,B0217,Global,Global,,,Efficiency,EFFICIENCY,%,Vanadium Redox-flow,"Schmidt, 2023",,,,,,,,,,,,,0.68,,,,,
+Battery,B0218,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,5.502272556,,,,,
+Battery,B0219,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Sodium-sulphur,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,5.502272556,,,,,
+Battery,B0220,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Lead-acid,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,5.502272556,,,,,
+Battery,B0221,Global,Global,,,Fixed O&M,OPEX_F,USD/kWh/yr,Vanadium Redox-flow,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,11.00454511,,,,,
+Battery,B0222,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,0.440181804,,,,,
+Battery,B0223,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Sodium-sulphur,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,0.440181804,,,,,
+Battery,B0224,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Lead-acid,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,0.440181804,,,,,
+Battery,B0225,Global,Global,,,Variable O&M,OPEX_V,USD/MWh,Vanadium Redox-flow,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,2.200909022,,,,,
+Battery,B0226,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,304.8258996,,,,,
+Battery,B0227,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,452.2868041,,,,,
+Battery,B0228,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,544.7249831,,,,,
+Battery,B0229,Europe,United Kingdom,GB,GBR,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,562.3322552,,,,,
+Battery,B0230,Europe,Germany,DE,DEU,Capital Cost,CAPEX,USD/kWh,Lithium-ion,"Schmidt, 2023",,From 2020 USD to 2023 USD = 1.10045,,,,,,,,,,,573.3368004,,,,,
+Battery,B0231,Global,Global,,,Construction Time,BUILDTIME,Years,Lithium-ion,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
+Battery,B0232,Global,Global,,,Construction Time,BUILDTIME,Years,Sodium-sulphur,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
+Battery,B0233,Global,Global,,,Construction Time,BUILDTIME,Years,Lead-acid,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
+Battery,B0234,Global,Global,,,Construction Time,BUILDTIME,Years,Vanadium Redox-flow,"Schmidt, 2023",,,,,,,,,,,,,1,,,,,
