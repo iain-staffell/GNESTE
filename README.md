@@ -26,7 +26,11 @@ The files presented here are in machine-readable CSV format.  The same data are 
 
 ## Citation
 
-Once the Data in Brief article is published, please cite that article if you use this data - rather than citing this GitHub repository.
+Please cite this article where you use this database:
+
+Luke Hatton, Nathan Johnson, Lara Dixon, Bosi Mosongo, Savanha De Kock, Andrew Marquard, Mark Howells, and Iain Staffell.  2024.  The Global and National Energy Systems Techno-Economic (GNESTE) Database: Cost and performance data for electricity generation and storage technologies.  Submitted to Data in Brief
+
+
 
 ## License
 
