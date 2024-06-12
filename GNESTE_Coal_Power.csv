@@ -102,8 +102,8 @@ Coal,C0100,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Lignite,"CSIRO, 20
 Coal,C0101,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal CCUS,"CSIRO, 2023",Global NZE by 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,7256.592,6910.1949,6822.774,6747.1845,6335.7147,5732.9706,5312.9559
 Coal,C0102,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,Coal CCUS,"CSIRO, 2023",Global NZE post 2050 scenario,From 2023 AUD to 2023 USD = 0.65730,,,,,,,,,,7256.592,6910.1949,6822.774,6747.1845,6335.7147,5744.1447,5330.0457
 Coal,C0103,Europe,United Kingdom,GB,GBR,Efficiency,EFFICIENCY,%,Coal,"Staffell, 2017",,,,,,0.379,,,,,,,,,,,,
-Coal,C0104,Global,Global,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"Auger, 2021",Global coal price in Business as usual scenario,From 2016 USD to 2023 USD = 1.18063,,,82.36090855,,,,,92.3844767,,,,,,79.78713016,81.59349756,
-Coal,C0105,Global,Global,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"Auger, 2021",Global coal price in Falling demand scenario,From 2016 USD to 2023 USD = 1.18063,,,82.36090855,,,,,71.94773175,,,,,,63.03395796,52.60897484,
+Coal,C0104,Global,Global,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"Auger, 2021",Global coal price in Business as usual scenario,From 2016 USD to 2023 USD = 1.18063,,,3.198481886,,,,,3.587746668,,,,,,3.098529327,3.168679517,
+Coal,C0105,Global,Global,,,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"Auger, 2021",Global coal price in Falling demand scenario,From 2016 USD to 2023 USD = 1.18063,,,3.198481886,,,,,2.79408667,,,,,,2.447920698,2.043066984,
 Coal,C0106,Global,Global,,,Lifetime,LIFETIME,Years,Unspecified,"ASSET, 2018",,,,,,,,,,40,,,,,40,40,40,
 Coal,C0107,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Coal - Subcritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,1939.14494,,,,,,1939.14494,1939.14494,1939.14494
 Coal,C0108,Europe,European Union,,,Capital Cost,CAPEX,USD/kW,Coal - Supercritical,"ASSET, 2018",,From 2018 EUR to 2023 USD = 1.21197,,,,,,,,2060.341499,,,,,,2060.341499,2060.341499,2060.341499
@@ -156,3 +156,4 @@ Coal,C0154,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023
 Coal,C0155,Asia,India,IN,IND,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,893.5755853,893.5755853,893.5755853,,893.5755853,893.5755853,893.5755853
 Coal,C0156,Asia,South East Asia,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,1468.450846,1468.450846,1468.450846,,1468.450846,1468.450846,1468.450846
 Coal,C0157,Asia,OECD Asia & Oceania,,,Capital Cost,CAPEX,USD/kW,Coal,"DNV, 2023",,In 2023 USD,,,,,,,,,,1690.303956,1690.303956,1690.303956,,1690.303956,1690.303956,1690.303956
+Coal,C0158,Europe,United Kingdom,GB,GBR,Fuel Price,FUEL_PRICE,USD/MWh,Coal,"Green, 2021",,From 2014 GBP to 2023 USD = 1.4777; From 2015 GBP to 2023 USD = 1.4584; From 2016 GBP to 2023 USD = 1.4489; From 2017 GBP to 2023 USD = 1.4209; From 2018 GBP to 2023 USD = 1.3950; From 2019 GBP to 2023 USD = 1.3687; From 2020 GBP to 2023 USD = 1.3404; From 2021 GBP to 2023 USD = 1.2755,,11.19384816,8.846628816,10.1323458,14.76201932,15.09585034,10.67676835,9.82603086,19.78253103,,,,,,,
