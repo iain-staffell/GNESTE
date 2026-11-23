@@ -7,62 +7,62 @@ Gas,G0005,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/
 Gas,G0006,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,CCGT,"Lazard, 2023",high case 550MW operatating ,In 2023 USD,,,,,,,,,,14,,,,,,
 Gas,G0007,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Gas Peaking,"Lazard, 2023",low case 240MW ,In 2023 USD,,,,,,,,,,7,,,,,,
 Gas,G0008,North America,United States of America,US,USA,Fixed O&M,OPEX_F,USD/kW/yr,Gas Peaking,"Lazard, 2023",high case 50MW,In 2023 USD,,,,,,,,,,17,,,,,,
-Gas,G0009,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",506 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,7.56,,,
-Gas,G0010,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,CCGT CCUS,"IEA, 2020",437 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,14.76,,,
+Gas,G0009,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",506 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,7.56,,,
+Gas,G0010,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,CCGT CCUS,"IEA, 2020a",437 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,14.76,,,
 Gas,G0011,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,CCGT,"Lazard, 2023",low case 550MW new build and operating ,,,,,,,,,,,2,,,,,,
 Gas,G0012,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,CCGT,"Lazard, 2023",550MW new build and operating ,,,,,,,,,,,20,,,,,,
 Gas,G0013,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Gas Peaking,"Lazard, 2023",low case 240MW,In 2023 USD,,,,,,,,,,700,,,,,,
 Gas,G0014,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,Gas Peaking,"Lazard, 2023",high case 50MW,In 2023 USD,,,,,,,,,,1150,,,,,,
-Gas,G0015,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,6,,,,,,,,
-Gas,G0016,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,4.8,,,,,,,,
+Gas,G0015,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,6,,,,,,,,
+Gas,G0016,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,4.8,,,,,,,,
 Gas,G0017,North America,United States of America,US,USA,Construction Time,BUILDTIME,Years,Gas Peaking,"Lazard, 2023",240-50MW,,,,,,,,,,,2,,,,,,
 Gas,G0018,North America,United States of America,US,USA,Lifetime,LIFETIME,Years,Gas Peaking,"Lazard, 2023",240-50MW,,,,,,,,,,,20,,,,,,
-Gas,G0019,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,7.6513571,,,
-Gas,G0020,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",506 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1095.50915,,,
-Gas,G0021,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,CCGT CCUS,"IEA, 2020",437 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,3241.78938,,,
-Gas,G0022,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,879.84871,,,
-Gas,G0023,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1157.45417,,,
-Gas,G0024,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1117.30462,,,
-Gas,G0025,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",471 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1213.66354,,,
-Gas,G0026,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",790 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,676.8067,,,
-Gas,G0027,Asia,Japan,JP,JPN,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",1372 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1272.16717,,,
-Gas,G0028,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",491 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1269.87291,,,
-Gas,G0029,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",982 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,961.29494,,,
-Gas,G0030,North America,Mexico,MX,MEX,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",503 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,767.42997,,,
-Gas,G0031,North America,Mexico,MX,MEX,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",785 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,765.13571,,,
-Gas,G0032,North America,Mexico,MX,MEX,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",835 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,534.56258,,,
-Gas,G0033,Europe,Romania,RO,ROU,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",750 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,291.37102,,,
-Gas,G0034,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",727 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1092.06776,,,
-Gas,G0035,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,CCGT CCUS,"IEA, 2020",646 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2766.87756,,,
-Gas,G0036,South America,Brazil,BR,BRA,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1098.95054,,,
-Gas,G0037,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020",475 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,642.3928,,,
-Gas,G0038,North America,Canada,CA,CAN,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",471 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,7.9840248,,,
-Gas,G0039,Europe,Italy,IT,ITA,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",790 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,8.0184387,,,
-Gas,G0040,Asia,Japan,JP,JPN,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",1372 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,8.832901,,,
-Gas,G0041,Asia,"Korea, Republic of",KR,KOR,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",491 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,13.0313968,,,
-Gas,G0042,Asia,"Korea, Republic of",KR,KOR,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",982 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.6473633,,,
-Gas,G0043,North America,Mexico,MX,MEX,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",503 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.0568464,,,
-Gas,G0044,North America,Mexico,MX,MEX,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",785 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.5730549,,,
-Gas,G0045,North America,Mexico,MX,MEX,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",835 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.3206863,,,
-Gas,G0046,Europe,Romania,RO,ROU,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",750 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,53.0777051,,,
-Gas,G0047,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",727 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.079789,,,
-Gas,G0048,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,CCGT CCUS,"IEA, 2020",646 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,16.3121886,,,
-Gas,G0049,South America,Brazil,BR,BRA,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,12.8593273,,,
-Gas,G0050,Asia,China,CN,CHN,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020",475 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,15.4747837,,,
+Gas,G0019,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,7.6513571,,,
+Gas,G0020,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",506 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1095.50915,,,
+Gas,G0021,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,CCGT CCUS,"IEA, 2020a",437 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,3241.78938,,,
+Gas,G0022,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,879.84871,,,
+Gas,G0023,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1157.45417,,,
+Gas,G0024,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1117.30462,,,
+Gas,G0025,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",471 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1213.66354,,,
+Gas,G0026,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",790 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,676.8067,,,
+Gas,G0027,Asia,Japan,JP,JPN,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",1372 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1272.16717,,,
+Gas,G0028,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",491 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1269.87291,,,
+Gas,G0029,Asia,"Korea, Republic of",KR,KOR,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",982 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,961.29494,,,
+Gas,G0030,North America,Mexico,MX,MEX,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",503 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,767.42997,,,
+Gas,G0031,North America,Mexico,MX,MEX,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",785 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,765.13571,,,
+Gas,G0032,North America,Mexico,MX,MEX,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",835 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,534.56258,,,
+Gas,G0033,Europe,Romania,RO,ROU,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",750 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,291.37102,,,
+Gas,G0034,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",727 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1092.06776,,,
+Gas,G0035,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,CCGT CCUS,"IEA, 2020a",646 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,2766.87756,,,
+Gas,G0036,South America,Brazil,BR,BRA,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1098.95054,,,
+Gas,G0037,Asia,China,CN,CHN,Capital Cost,CAPEX,USD/kW,CCGT,"IEA, 2020a",475 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,642.3928,,,
+Gas,G0038,North America,Canada,CA,CAN,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",471 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,7.9840248,,,
+Gas,G0039,Europe,Italy,IT,ITA,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",790 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,8.0184387,,,
+Gas,G0040,Asia,Japan,JP,JPN,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",1372 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,8.832901,,,
+Gas,G0041,Asia,"Korea, Republic of",KR,KOR,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",491 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,13.0313968,,,
+Gas,G0042,Asia,"Korea, Republic of",KR,KOR,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",982 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.6473633,,,
+Gas,G0043,North America,Mexico,MX,MEX,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",503 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.0568464,,,
+Gas,G0044,North America,Mexico,MX,MEX,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",785 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.5730549,,,
+Gas,G0045,North America,Mexico,MX,MEX,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",835 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.3206863,,,
+Gas,G0046,Europe,Romania,RO,ROU,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",750 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,53.0777051,,,
+Gas,G0047,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",727 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,6.079789,,,
+Gas,G0048,North America,United States of America,US,USA,Total O&M,OPEX_T,USD/MWh,CCGT CCUS,"IEA, 2020a",646 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,16.3121886,,,
+Gas,G0049,South America,Brazil,BR,BRA,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,12.8593273,,,
+Gas,G0050,Asia,China,CN,CHN,Total O&M,OPEX_T,USD/MWh,CCGT,"IEA, 2020a",475 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,15.4747837,,,
 Gas,G0051,Oceania,Australia,AU,AUS,Fixed O&M,OPEX_F,USD/kW/yr,OCGT,"AURECON, 2022","Nominal 257.2 MW project, small gas turbine",From 2022 AUD to 2023 USD = 0.67648,,,,,,,,,,8.523648,,,,,,
 Gas,G0052,Oceania,Australia,AU,AUS,Fixed O&M,OPEX_F,USD/kW/yr,OCGT,"AURECON, 2022","Nominal 244.3 MW project, large gas turbine",From 2022 AUD to 2023 USD = 0.67648,,,,,,,,,,6.900096,,,,,,
-Gas,G0053,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",537 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,10.4274117,,,
-Gas,G0054,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",350 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,8.603475,,,
-Gas,G0055,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,11.2762879,,,
-Gas,G0056,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.1655687,,,
-Gas,G0057,North America,Canada,CA,CAN,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.980031,,,
-Gas,G0058,North America,Canada,CA,CAN,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",243 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.2563189,,,
-Gas,G0059,Europe,Italy,IT,ITA,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",130 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,12.7446143,,,
-Gas,G0060,South America,Brazil,BR,BRA,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,19.1685423,,,
-Gas,G0061,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,OCGT,"Danish Energy Agency, 2024",Large,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,22.64847,,,,,,21.603156,,20.90628
-Gas,G0062,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,OCGT,"Danish Energy Agency, 2024",Medium-Small,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,22.64847,,,,,,21.603156,,20.90628
-Gas,G0063,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,CCGT,"Danish Energy Agency, 2024",Steam Extraction,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,34.030778,,,,,,32.288588,,30.19796
-Gas,G0064,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,CCGT,"Danish Energy Agency, 2024",Back-Pressure,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,34.030778,,,,,,32.288588,,30.19796
+Gas,G0053,Oceania,Australia,AU,AUS,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",537 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,10.4274117,,,
+Gas,G0054,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",350 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,8.603475,,,
+Gas,G0055,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,11.2762879,,,
+Gas,G0056,Europe,Belgium,BE,BEL,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.1655687,,,
+Gas,G0057,North America,Canada,CA,CAN,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,9.980031,,,
+Gas,G0058,North America,Canada,CA,CAN,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",243 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.2563189,,,
+Gas,G0059,Europe,Italy,IT,ITA,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",130 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,12.7446143,,,
+Gas,G0060,South America,Brazil,BR,BRA,Total O&M,OPEX_T,USD/MWh,OCGT,"IEA, 2020a",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,19.1685423,,,
+Gas,G0061,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,OCGT,"Danish Energy Agency, 2024b",Large,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,22.64847,,,,,,21.603156,,20.90628
+Gas,G0062,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,OCGT,"Danish Energy Agency, 2024b",Medium-Small,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,22.64847,,,,,,21.603156,,20.90628
+Gas,G0063,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,CCGT,"Danish Energy Agency, 2024b",Steam Extraction,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,34.030778,,,,,,32.288588,,30.19796
+Gas,G0064,Europe,Denmark,DK,DNK,Fixed O&M,OPEX_F,USD/kW/yr,CCGT,"Danish Energy Agency, 2024b",Back-Pressure,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,34.030778,,,,,,32.288588,,30.19796
 Gas,G0065,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"Lazard, 2023",Central case,In 2023 USD,,,,,,,,,,11.76,,,,,,
 Gas,G0066,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"Lazard, 2023",Low case,In 2023 USD,,,,,,,,,,8.83,,,,,,
 Gas,G0067,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"Lazard, 2023",High case,In 2023 USD,,,,,,,,,,14.69,,,,,,
@@ -85,80 +85,80 @@ Gas,G0083,North America,United States of America,US,USA,Variable O&M,OPEX_V,USD/
 Gas,G0084,Oceania,Australia,AU,AUS,Efficiency,EFFICIENCY,%,OCGT,"AURECON, 2022","Nominal 257.2 MW project, small gas turbine. Thermal Efficiency at MCR at % LHV Net",,,,,,,,,,,0.3979,,,,,,
 Gas,G0085,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,OCGT,"AURECON, 2022","Nominal 244.3 MW project, large gas turbine",From 2022 AUD to 2023 USD = 0.67648,,,,,,,,,,585.1552,,,,,,
 Gas,G0086,Oceania,Australia,AU,AUS,Lifetime,LIFETIME,Years,OCGT,"AURECON, 2022","Nominal 244.3 MW project, large gas turbine",,,,,,,,,,,25,,,,,,
-Gas,G0087,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",506 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,64.2851652,,,
-Gas,G0088,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,CCGT CCUS,"IEA, 2020",437 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,74.5175648,,,
+Gas,G0087,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",506 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,64.2851652,,,
+Gas,G0088,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,CCGT CCUS,"IEA, 2020a",437 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,74.5175648,,,
 Gas,G0089,Oceania,Australia,AU,AUS,Efficiency,EFFICIENCY,%,OCGT,"AURECON, 2022","Nominal 244.3MW project, large gas turbine. Thermal Efficiency at MCR at % LHV Net",,,,,,,,,,,0.3686,,,,,,
-Gas,G0090,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",537 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,766.28284,,,
-Gas,G0091,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",350 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,609.12603,,,
-Gas,G0092,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,768.5771,,,
-Gas,G0093,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,676.8067,,,
-Gas,G0094,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1308.87533,,,
-Gas,G0095,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",243 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,594.21334,,,
-Gas,G0096,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",130 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,372.81725,,,
-Gas,G0097,South America,Brazil,BR,BRA,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,847.72907,,,
-Gas,G0098,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,52.6303244,,,
-Gas,G0099,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,48.9250945,,,
-Gas,G0100,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,53.9839378,,,
-Gas,G0101,North America,Canada,CA,CAN,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",471 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,22.0134247,,,
-Gas,G0102,Europe,Italy,IT,ITA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",790 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,52.194415,,,
-Gas,G0103,Asia,Japan,JP,JPN,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",1372 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,70.0322865,,,
-Gas,G0104,Asia,"Korea, Republic of",KR,KOR,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",491 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,69.7684466,,,
-Gas,G0105,Asia,"Korea, Republic of",KR,KOR,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",982 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,66.7973799,,,
-Gas,G0106,North America,Mexico,MX,MEX,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",503 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,24.8009506,,,
-Gas,G0107,North America,Mexico,MX,MEX,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",785 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,20.9810077,,,
-Gas,G0108,North America,Mexico,MX,MEX,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",835 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.6692857,,,
-Gas,G0109,Europe,Romania,RO,ROU,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",750 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,53.9839378,,,
-Gas,G0110,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",727 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.0842494,,,
-Gas,G0111,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT CCUS,"IEA, 2020",646 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,26.2807483,,,
-Gas,G0112,South America,Brazil,BR,BRA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.6004579,,,
-Gas,G0113,Asia,China,CN,CHN,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020",475 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,61.4173402,,,
-Gas,G0114,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,OCGT,"Danish Energy Agency, 2024",Large,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,685.2614,,,,,,650.4176,,603.9592
+Gas,G0090,Oceania,Australia,AU,AUS,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",537 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,766.28284,,,
+Gas,G0091,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",350 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,609.12603,,,
+Gas,G0092,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,768.5771,,,
+Gas,G0093,Europe,Belgium,BE,BEL,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,676.8067,,,
+Gas,G0094,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,1308.87533,,,
+Gas,G0095,North America,Canada,CA,CAN,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",243 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,594.21334,,,
+Gas,G0096,Europe,Italy,IT,ITA,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",130 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,372.81725,,,
+Gas,G0097,South America,Brazil,BR,BRA,Capital Cost,CAPEX,USD/kW,OCGT,"IEA, 2020a",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,847.72907,,,
+Gas,G0098,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,52.6303244,,,
+Gas,G0099,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,48.9250945,,,
+Gas,G0100,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,53.9839378,,,
+Gas,G0101,North America,Canada,CA,CAN,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",471 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,22.0134247,,,
+Gas,G0102,Europe,Italy,IT,ITA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",790 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,52.194415,,,
+Gas,G0103,Asia,Japan,JP,JPN,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",1372 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,70.0322865,,,
+Gas,G0104,Asia,"Korea, Republic of",KR,KOR,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",491 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,69.7684466,,,
+Gas,G0105,Asia,"Korea, Republic of",KR,KOR,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",982 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,66.7973799,,,
+Gas,G0106,North America,Mexico,MX,MEX,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",503 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,24.8009506,,,
+Gas,G0107,North America,Mexico,MX,MEX,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",785 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,20.9810077,,,
+Gas,G0108,North America,Mexico,MX,MEX,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",835 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.6692857,,,
+Gas,G0109,Europe,Romania,RO,ROU,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",750 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,53.9839378,,,
+Gas,G0110,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",727 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.0842494,,,
+Gas,G0111,North America,United States of America,US,USA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT CCUS,"IEA, 2020a",646 MW with CCUS,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,26.2807483,,,
+Gas,G0112,South America,Brazil,BR,BRA,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,21.6004579,,,
+Gas,G0113,Asia,China,CN,CHN,Fuel Price,FUEL_PRICE,USD/MWh,CCGT,"IEA, 2020a",475 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,61.4173402,,,
+Gas,G0114,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,OCGT,"Danish Energy Agency, 2024b",Large,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,685.2614,,,,,,650.4176,,603.9592
 Gas,G0115,Oceania,Australia,AU,AUS,Variable O&M,OPEX_V,USD/MWh,OCGT,"AURECON, 2022","Nominal 257.2 MW project, small gas turbine",From 2022 AUD to 2023 USD = 0.67648,,,,,,,,,,8.11776,,,,,,
 Gas,G0116,Oceania,Australia,AU,AUS,Variable O&M,OPEX_V,USD/MWh,OCGT,"AURECON, 2022","Nominal 244.3 MW project, large gas turbine",From 2022 AUD to 2023 USD = 0.67648,,,,,,,,,,4.938304,,,,,,
-Gas,G0117,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024",Large,,,,25,,,,,25,,,,,,25,,25
-Gas,G0118,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024",Large,,,,1.5,,,,,1.5,,,,,,1.5,,1.5
-Gas,G0119,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024",Large,,,,0.39,,,,,0.4,,,,,,0.41,,0.43
-Gas,G0120,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,OCGT,"Danish Energy Agency, 2024",Medium-Small,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,847.8658,,,,,,813.022,,789.7928
-Gas,G0121,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",537 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,99.6970683,,,
-Gas,G0122,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",350 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,78.2801512,,,
-Gas,G0123,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024",Medium-Small,,,,25,,,,,25,,,,,,25,,25
-Gas,G0124,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024",Medium-Small,,,,1.5,,,,,1.5,,,,,,1.5,,1.5
-Gas,G0125,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024",Medium-Small,,,,0.34,,,,,0.35,,,,,,0.37,,0.38
-Gas,G0126,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,76.3759154,,,
-Gas,G0127,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,82.3983479,,,
-Gas,G0128,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024",Micro,,,,15,,,,,15,,,,,,15,,15
-Gas,G0129,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024",Micro,,,,0.5,,,,,0.5,,,,,,0.5,,0.5
-Gas,G0130,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024",Micro,,,,0.28,,,,,0.28,,,,,,0.28,,0.28
-Gas,G0131,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,CCGT,"Danish Energy Agency, 2024",Steam Extraction,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,1022.0848,,,,,,1680.552131,,1619.809283
-Gas,G0132,North America,Canada,CA,CAN,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,30.3301172,,,
-Gas,G0133,North America,Canada,CA,CAN,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",243 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,31.316649,,,
-Gas,G0134,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,CCGT,"Danish Energy Agency, 2024",large,,,,25,,,,,25,,,,,,25,,25
-Gas,G0135,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,CCGT,"Danish Energy Agency, 2024",large,,,,2.5,,,,,2.5,,,,,,2.5,,2.5
-Gas,G0136,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,CCGT,"Danish Energy Agency, 2024",large,,,,0.55,,,,,0.56,,,,,,0.58,,0.6
-Gas,G0137,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,CCGT,"Danish Energy Agency, 2024",Back-Pressure,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,1509.898,,,,,,2429.713924,,2227.237764
-Gas,G0138,Europe,Italy,IT,ITA,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",130 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,84.8646774,,,
-Gas,G0139,South America,Brazil,BR,BRA,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,28.4717666,,,
-Gas,G0140,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,CCGT,"Danish Energy Agency, 2024",Medium,,,,25,,,,,25,,,,,,25,,25
-Gas,G0141,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,CCGT,"Danish Energy Agency, 2024",Medium,,,,2.5,,,,,2,,,,,,2,,2
-Gas,G0142,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,CCGT,"Danish Energy Agency, 2024",Medium,,,,0.47,,,,,0.48,,,,,,0.5,,0.52
-Gas,G0143,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,OCGT,"Danish Energy Agency, 2024",Large,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,7.670476,,,,,,7.321818,,6.97316
-Gas,G0144,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,OCGT,"Danish Energy Agency, 2024",Medium-Small,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,9.413766,,,,,,8.890779,,8.019134
-Gas,G0145,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Peaking,"Danish Energy Agency, 2024",Medium,,,,25,,,,,25,,,,,,25,,25
-Gas,G0146,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Peaking,"Danish Energy Agency, 2024",Medium,,,,1,,,,,1,,,,,,1,,1
-Gas,G0147,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Gas Peaking,"Danish Energy Agency, 2024",Medium,,,,0.46,,,,,0.46,,,,,,0.48,,0.48
-Gas,G0148,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,CCGT,"Danish Energy Agency, 2024",Steam Extraction,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,5.110160167,,,,,,4.878132,,4.64584
-Gas,G0149,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Peaking,"Danish Energy Agency, 2024",Medium,,,,25,,,,,25,,,,,,25,,25
-Gas,G0150,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Peaking,"Danish Energy Agency, 2024",Medium,,,,1,,,,,1,,,,,,1,,1
-Gas,G0151,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Gas Peaking,"Danish Energy Agency, 2024",Medium,,,,0.46,,,,,0.46,,,,,,0.48,,0.48
-Gas,G0152,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,CCGT,"Danish Energy Agency, 2024",Back-Pressure,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,5.110160167,,,,,,4.878132,,4.64584
-Gas,G0153,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Engine,"Danish Energy Agency, 2024",,,,,25,,,,,25,,,,,,25,,25
-Gas,G0154,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Engine,"Danish Energy Agency, 2024",,,,,1,,,,,1,,,,,,1,,1
-Gas,G0155,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Gas Engine,"Danish Energy Agency, 2024",,,,,0.44,,,,,0.45,,,,,,0.47,,0.48
-Gas,G0156,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Boiler,"Danish Energy Agency, 2024",,,,,25,,,,,25,,,,,,25,,25
-Gas,G0157,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Boiler,"Danish Energy Agency, 2024",,,,,0.5,,,,,0.5,,,,,,0.5,,0.5
-Gas,G0158,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024",Natural Gas,,,,25,,,,,25,,,,,,25,,25
-Gas,G0159,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024",Natural Gas,,,,0.2,,,,,0.2,,,,,,0.2,,0.2
-Gas,G0160,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024",Natural Gas,,,,0.39,,,,,0.4,,,,,,0.41,,0.43
+Gas,G0117,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024b",Large,,,,25,,,,,25,,,,,,25,,25
+Gas,G0118,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024b",Large,,,,1.5,,,,,1.5,,,,,,1.5,,1.5
+Gas,G0119,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024b",Large,,,,0.39,,,,,0.4,,,,,,0.41,,0.43
+Gas,G0120,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,OCGT,"Danish Energy Agency, 2024b",Medium-Small,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,847.8658,,,,,,813.022,,789.7928
+Gas,G0121,Oceania,Australia,AU,AUS,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",537 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,99.6970683,,,
+Gas,G0122,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",350 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,78.2801512,,,
+Gas,G0123,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024b",Medium-Small,,,,25,,,,,25,,,,,,25,,25
+Gas,G0124,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024b",Medium-Small,,,,1.5,,,,,1.5,,,,,,1.5,,1.5
+Gas,G0125,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024b",Medium-Small,,,,0.34,,,,,0.35,,,,,,0.37,,0.38
+Gas,G0126,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,76.3759154,,,
+Gas,G0127,Europe,Belgium,BE,BEL,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",500 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,82.3983479,,,
+Gas,G0128,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024b",Micro,,,,15,,,,,15,,,,,,15,,15
+Gas,G0129,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024b",Micro,,,,0.5,,,,,0.5,,,,,,0.5,,0.5
+Gas,G0130,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024b",Micro,,,,0.28,,,,,0.28,,,,,,0.28,,0.28
+Gas,G0131,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,CCGT,"Danish Energy Agency, 2024b",Steam Extraction,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,1022.0848,,,,,,1680.552131,,1619.809283
+Gas,G0132,North America,Canada,CA,CAN,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",100 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,30.3301172,,,
+Gas,G0133,North America,Canada,CA,CAN,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",243 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,31.316649,,,
+Gas,G0134,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,CCGT,"Danish Energy Agency, 2024b",large,,,,25,,,,,25,,,,,,25,,25
+Gas,G0135,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,CCGT,"Danish Energy Agency, 2024b",large,,,,2.5,,,,,2.5,,,,,,2.5,,2.5
+Gas,G0136,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,CCGT,"Danish Energy Agency, 2024b",large,,,,0.55,,,,,0.56,,,,,,0.58,,0.6
+Gas,G0137,Europe,Denmark,DK,DNK,Capital Cost,CAPEX,USD/kW,CCGT,"Danish Energy Agency, 2024b",Back-Pressure,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,1509.898,,,,,,2429.713924,,2227.237764
+Gas,G0138,Europe,Italy,IT,ITA,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",130 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,84.8646774,,,
+Gas,G0139,South America,Brazil,BR,BRA,Fuel Price,FUEL_PRICE,USD/MWh,OCGT,"IEA, 2020a",980 MW,From 2018 USD to 2023 USD = 1.14713,,,,,,,,,,,,,28.4717666,,,
+Gas,G0140,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,CCGT,"Danish Energy Agency, 2024b",Medium,,,,25,,,,,25,,,,,,25,,25
+Gas,G0141,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,CCGT,"Danish Energy Agency, 2024b",Medium,,,,2.5,,,,,2,,,,,,2,,2
+Gas,G0142,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,CCGT,"Danish Energy Agency, 2024b",Medium,,,,0.47,,,,,0.48,,,,,,0.5,,0.52
+Gas,G0143,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,OCGT,"Danish Energy Agency, 2024b",Large,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,7.670476,,,,,,7.321818,,6.97316
+Gas,G0144,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,OCGT,"Danish Energy Agency, 2024b",Medium-Small,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,9.413766,,,,,,8.890779,,8.019134
+Gas,G0145,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Peaking,"Danish Energy Agency, 2024b",Medium,,,,25,,,,,25,,,,,,25,,25
+Gas,G0146,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Peaking,"Danish Energy Agency, 2024b",Medium,,,,1,,,,,1,,,,,,1,,1
+Gas,G0147,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Gas Peaking,"Danish Energy Agency, 2024b",Medium,,,,0.46,,,,,0.46,,,,,,0.48,,0.48
+Gas,G0148,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,CCGT,"Danish Energy Agency, 2024b",Steam Extraction,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,5.110160167,,,,,,4.878132,,4.64584
+Gas,G0149,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Peaking,"Danish Energy Agency, 2024b",Medium,,,,25,,,,,25,,,,,,25,,25
+Gas,G0150,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Peaking,"Danish Energy Agency, 2024b",Medium,,,,1,,,,,1,,,,,,1,,1
+Gas,G0151,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Gas Peaking,"Danish Energy Agency, 2024b",Medium,,,,0.46,,,,,0.46,,,,,,0.48,,0.48
+Gas,G0152,Europe,Denmark,DK,DNK,Variable O&M,OPEX_V,USD/MWh,CCGT,"Danish Energy Agency, 2024b",Back-Pressure,From 2020 EUR to 2023 USD = 1.16146,,,,,,,,5.110160167,,,,,,4.878132,,4.64584
+Gas,G0153,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Engine,"Danish Energy Agency, 2024b",,,,,25,,,,,25,,,,,,25,,25
+Gas,G0154,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Engine,"Danish Energy Agency, 2024b",,,,,1,,,,,1,,,,,,1,,1
+Gas,G0155,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,Gas Engine,"Danish Energy Agency, 2024b",,,,,0.44,,,,,0.45,,,,,,0.47,,0.48
+Gas,G0156,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,Gas Boiler,"Danish Energy Agency, 2024b",,,,,25,,,,,25,,,,,,25,,25
+Gas,G0157,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,Gas Boiler,"Danish Energy Agency, 2024b",,,,,0.5,,,,,0.5,,,,,,0.5,,0.5
+Gas,G0158,Europe,Denmark,DK,DNK,Lifetime,LIFETIME,Years,OCGT,"Danish Energy Agency, 2024b",Natural Gas,,,,25,,,,,25,,,,,,25,,25
+Gas,G0159,Europe,Denmark,DK,DNK,Construction Time,BUILDTIME,Years,OCGT,"Danish Energy Agency, 2024b",Natural Gas,,,,0.2,,,,,0.2,,,,,,0.2,,0.2
+Gas,G0160,Europe,Denmark,DK,DNK,Efficiency,EFFICIENCY,%,OCGT,"Danish Energy Agency, 2024b",Natural Gas,,,,0.39,,,,,0.4,,,,,,0.41,,0.43
 Gas,G0161,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,CCGT,"EIA, 2022",Single Shaft,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1304.62228,,,,,,,
 Gas,G0162,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,CCGT,"EIA, 2023",Single Shaft,From 2022 USD to 2023 USD = 1.03957,,,,,,,,,,1382.6281,,,,,,
 Gas,G0163,North America,United States of America,US,USA,Capital Cost,CAPEX,USD/kW,CCGT,"EIA, 2022",Multi-shaft,From 2021 USD to 2023 USD = 1.08628,,,,,,,,,1153.62936,,,,,,,
