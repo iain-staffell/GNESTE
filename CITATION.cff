@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+type: dataset
+title: "GNESTE: The Global and National Energy Systems Techno-Economic Database"
+message: "If you use the GNESTE database, please cite the article below."
+authors:
+  - family-names: Hatton
+    given-names: Luke
+  - family-names: Johnson
+    given-names: Nathan
+  - family-names: Dixon
+    given-names: Lara
+  - family-names: Mosongo
+    given-names: Bosi
+  - family-names: De Kock
+    given-names: Savanha
+  - family-names: Marquard
+    given-names: Andrew
+  - family-names: Howells
+    given-names: Mark
+  - family-names: Staffell
+    given-names: Iain
+url: "https://github.com/iain-staffell/GNESTE"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "The global and national energy systems techno-economic (GNESTE) database: Cost and performance data for electricity generation and storage technologies"
+  authors:
+    - family-names: Hatton
+      given-names: Luke
+    - family-names: Johnson
+      given-names: Nathan
+    - family-names: Dixon
+      given-names: Lara
+    - family-names: Mosongo
+      given-names: Bosi
+    - family-names: De Kock
+      given-names: Savanha
+    - family-names: Marquard
+      given-names: Andrew
+    - family-names: Howells
+      given-names: Mark
+    - family-names: Staffell
+      given-names: Iain
+  journal: Data in Brief
+  year: 2024
+  volume: 55
+  start: 110669
+  doi: "10.1016/j.dib.2024.110669"
